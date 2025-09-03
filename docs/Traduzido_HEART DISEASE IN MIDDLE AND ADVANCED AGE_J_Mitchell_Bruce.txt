@@ -1,0 +1,2478 @@
+*** INÍCIO DO PROJETO GUTENBERG EBOOK 43780 ***
+
+Nota do transcritor:
+
+O texto entre sublinhados está em itálico (_itálico_).
+
+O texto em letras maiúsculas pequenas foi substituído por todas as letras maiúsculas.
+
+Pequenos erros tipográficos foram corrigidos sem aviso prévio.
+As irregularidades e inconsistências no texto foram mantidas como
+impresso.
+
+       * * * * *
+
+
+
+
+  DOENÇA CARDÍACA
+
+  EM
+
+  IDADE MÉDIA E AVANÇADA
+
+
+
+
+  As Palestras Lettsomianas
+
+  SOBRE
+
+  DOENÇAS E DISTÚRBIOS
+
+  DO
+
+  CORAÇÃO E ARTÉRIAS
+
+  EM
+
+  VIDA MÉDIA E AVANÇADA
+
+  _Apresentado perante a Sociedade Médica de Londres, Sessão 1900-1_
+
+
+  POR
+
+  J. MITCHELL BRUCE, MA, LL.D., MD, FRCP,
+
+  _Médico do Hospital Charing Cross; Médico Consultor do
+  Hospital para Tuberculose e Doenças do Peito, Brompton_
+
+
+  LONDRES:
+  HARRISON E FILHOS, ST. MARTIN'S LANE
+  IMPRESSORES ORDINÁRIOS DE SUA MAJESTADE
+
+  1902
+
+
+
+
+  _Para_
+
+  JOHN H. MORGAN, CVO, MA Oxon., FRCS Eng.
+
+  _Presidente da Sociedade Médica de Londres, 1900-1901
+
+  de seu amigo e colega
+
+  O Escritor_
+
+
+
+
+CONTEÚDO
+
+
+  PALESTRA I.
+                                                            PÁGINA
+
+  Introdução 1
+
+  Estado natural do coração e das artérias após os 40 3
+
+  Causas de distúrbios e doenças cardiovasculares 6
+
+  Estresse Físico 6
+
+  Influências Nervosas 8
+
+  Venenos Cardíacos 9
+
+  Distúrbios do Metabolismo 9
+
+  Gota 9
+
+  Sífilis 10
+
+  Febres agudas específicas 11
+
+  Afecções crônicas 11
+
+  Causas complexas 11
+
+  Lesões reumáticas antigas 13
+
+  Coração de família 14
+
+
+  AULA II.
+
+  Personagens Clínicos e Curso 14
+
+  Características clínicas e curso do coração do tabaco 15
+
+  Caracteres Clínicos e Curso do Coração no Alcoolismo 18
+
+  Características clínicas e curso do coração na gota 20
+
+  Caracteres Clínicos e Curso do Coração na Obesidade
+        e Glicosúria 22
+
+  Características clínicas e curso da tensão cardíaca 23
+
+  Características clínicas e evolução da tensão cardíaca antes dos 40 25
+
+  Características clínicas e curso da sífilis cardíaca 28
+
+  Características clínicas e curso da doença cardiovascular
+        de Nervous Strain 29
+
+
+  AULA III.
+
+  Diagnóstico, Prognóstico e Tratamento 30
+
+  Diagnóstico Diferencial 31
+
+  Valor diagnóstico de diferentes sinais físicos 33
+
+  Valor diagnóstico de diferentes sintomas 35
+
+  Prognóstico 36
+
+  Tratamento 37
+
+  Conclusão 50
+
+
+
+
+AS PALESTRAS LETTSOMIAN
+
+1900-1901
+
+
+
+
+PALESTRA I.
+
+
+SENHOR PRESIDENTE E SENHORES, — Meu primeiro dever esta noite é
+obrigado, o que faço de coração e com gratidão, por
+honra que você me deu ao me selecionar para entregar o Lettsomian
+Palestras para o ano letivo. Meu segundo dever é gastar o mínimo possível
+o máximo de tempo possível para observações preliminares, pois - como o senhor sabe,
+tendo você mesmo ocupado este lugar distinto em um antigo
+ocasião - três horas são muito breves para uma apresentação útil de
+material que alguém coletou para um propósito como o presente. Em
+ao selecionar o tema das minhas palestras, eu estava atento ao caráter
+e objetivos desta Sociedade. Na Sociedade Médica de Londres havia
+é uma mistura mais completa de homens envolvidos na prática familiar com homens
+mantendo consultas hospitalares do que na maioria dos outros
+sociedades científicas ligadas à nossa profissão em Londres; e
+há aqui uma oportunidade para a livre comunicação de experiências
+e intercâmbio de opiniões entre essas duas classes de nossos bolsistas
+que não pode deixar de ser lucrativo para ambos. Portanto, tomei
+um assunto de interesse totalmente prático; e não apenas isso,
+mas tentarei apresentá-lo a você, para colocá-lo em uma posição
+para olhar para isso, do ponto de vista do praticante. O
+problema das doenças e distúrbios do coração e das artérias
+na vida média e avançada pode-se dizer que vem antes da família
+praticante a cada hora de seu trabalho, e oferecer dificuldades e
+criar um senso de responsabilidade ou mesmo ansiedade que não são
+suficientemente apreciado pelo médico do hospital. Vem
+diante dele o caso de um de seus pacientes, um empresário ativo
+homem de 45 anos, que foi acometido de angina de peito enquanto corria
+para a estação depois do café da manhã, ou de um velho amigo, cujo
+proposta de aumento do seu seguro para 50 foi recusada
+devido à degeneração arterial e poliúria; ou ele é solicitado a
+dizer se um homem de 60 anos, ocupando um cargo importante e possivelmente
+posição distinta na comunidade, deve se aposentar da função pública
+vida porque ele tem ataques ocasionais de opressão precordial
+e um sopro sistólico na base do coração. O que, de novo, ele está
+para fazer pelo homem robusto e livre, apenas passando o meridiano de
+vida, que o consulta em caso de fraqueza e depressão, cujo coração está
+grande e frágil, e a urina sacarina e ligeiramente albuminosa?
+Não há ninguém no meu público que não tenha se deparado com casos como
+muitas dessas vezes em sua prática e uma variedade de outros casos de
+transtorno cardíaco e doença após os 40 anos, onde a importância da
+indivíduos, o valor de suas vidas e a gravidade de suas
+reclamações e suas perspectivas o deixaram muito ansioso.
+Qual é o prognóstico em casos desta ordem? O que pode ser feito para
+eles no caminho do tratamento? Estas são as questões que nós
+gostaria de responder de forma útil. A resposta, parece-me, pode ser
+dada somente após uma análise e estudo de um número considerável de
+exemplos do gênero, quanto à sua origem, ao seu quadro clínico
+personagens e curso, e o resultado. Este é o método de investigação
+que proponho seguir. Será um estudo cardiovascular
+doença em indivíduos mais velhos do ponto de vista clínico, e
+será abordado não apenas do lado clínico comum como
+é abordado em hospitais, ou seja, por uma investigação de
+sintomas e sinais, mas também e especialmente à luz disso
+ordem particular de conhecimento que o médico de família possui
+aprendeu a apreciar e tem uma oportunidade tão íntima de adquirir
+corretamente - um conhecimento da origem ou das causas dos diferentes
+afeições, o que é sempre difícil, e muitas vezes impossível, para
+o médico do hospital para verificar. Pela mesma razão, embora,
+para ser completo, um estudo das doenças da circulação e
+após a meia-idade deve incluir um relato do _post-mortem_
+personagens encontrados em casos fatais, e enquanto a base do
+a conta que eu apresento a você será essencialmente patológica, eu irei
+não tentar descrever a anatomia patológica e a histologia de
+este grupo de lesões do coração e das artérias. Esta parte do
+o assunto avançou notavelmente nos últimos anos;
+e mesmo que eu tivesse tempo e conhecimento necessário para lidar
+com isso agora, não terei nada de original para apresentar
+você. Na verdade, se me permite dizer, nossa atenção ultimamente tem
+tem sido muito confinado aos estados patológicos do coração e
+artérias e muito pouco direcionadas às causas que as produzem.
+“Esclerose arterial” é hoje um diagnóstico comum no dia a dia
+prática, como se fosse suficiente para fins de prognóstico e
+tratamento para determinar que a artéria radial está mais espessa e
+mais longo e mais denso do que o normal, sem levar em conta o real
+natureza da alteração patológica, seja ela estirpe ou sifilítica,
+ou gotosa, ou de outra forma. E da mesma forma a frase "dilatação
+do coração" está agora na boca de todos, independentemente de
+considerações sobre sua origem. Não só a profissão repentinamente
+acordei com o reconhecimento de uma forma de alargamento do coração
+que foi totalmente descrito há cinquenta anos por médicos em nosso próprio país
+país, mas o público fez do "coração dilatado" uma moda
+doença que exige a orientação de um especialista e uma consulta anual
+visita a um spa continental. Deveríamos ter avançado além disso
+estágio da patologia cardíaca muito antes desse período. Além disso, de como
+é muito mais interessante estudar o nosso trabalho diário
+causas ou circunstâncias que levam à doença do que a simples
+estado da própria doença! E há em um estudo deste tipo
+uma oportunidade oferecida ao médico de família para avançar
+Medicina - científica, preventiva e terapêutica - tão seguramente como se
+ele era um patologista na sala _post-mortem_ ou no laboratório.
+
+Antes, porém, de examinar as influências e circunstâncias que
+desordem e danos à circulação na meia-idade e na idade avançada, deixe
+nos permite ver qual é o estado normal ou natural do coração e das artérias
+é depois dos 40. Foi verificado que as diferentes partes de
+o aparelho circulatório passa por certas fases definidas
+de mudança nas diferentes fases desse declínio da existência
+e energia que leva à senilidade e termina na morte. Temos que
+agradecer ao Professor Beneke, de Marburg, pelos resultados de um laborioso
+investigação deste assunto que são geralmente aceites e que
+Tentarei resumir.[1]
+
+  [1] FW Beneke, 'Die Altersdisposition.'
+
+Todos nós deveríamos esperar que o sistema cardiovascular passasse por importantes
+mudanças com o aumento da idade; mas poucos de nós estaríamos preparados para
+constatar que essas mudanças não são nem uniformemente progressivas nem
+de fato, continuamente progressivo na mesma direção. Para fazer
+mais facilmente inteligível a natureza e, na medida do possível, a
+origem dessas alterações anatômicas no coração e nas artérias
+durante a segunda metade da vida, vou primeiro me referir por um momento
+para a circulação de 20 a 45. Durante este período da vida, o
+a pressão arterial é relativamente alta, atingindo seu máximo em torno de 36;
+a aorta e outras grandes artérias aumentam de diâmetro a partir da
+estresse da pressão sanguínea em suas paredes elásticas, particularmente
+entre 35 e 45, e o coração aumenta de tamanho ano após ano
+a uma taxa quase uniforme. Temos nestes fatos evidências anatômicas
+do grande vigor funcional e atividade da circulação em
+masculinidade. Aos 45 anos, que é praticamente o início do período
+com o qual estamos preocupados, ocorrem mudanças notáveis. Enquanto o
+as artérias continuam a aumentar em circunferência (um pouco mais lentamente
+do que antes), a pressão arterial cai e o coração começa - quase
+de repente - diminuir de tamanho; e essas três características caracterizam
+a circulação pelos próximos 20 anos, ou seja, até a idade de
+65. Como essa queda no tamanho do coração pode ser explicada?
+Em parte pelo alargamento dos troncos arteriais e consequente
+queda de pressão. Mas não apenas por estes; pois embora as artérias
+estava aumentando ainda mais rapidamente entre 20 e 45, a pressão
+estava realmente no seu máximo então e o coração grande, e nós iremos
+atualmente encontram outros fatos que se opõem a essa visão. O periférico
+a resistência nas artérias sistêmicas deve cair por alguma outra causa
+ou causas na meia idade do que a perda de elasticidade da artéria
+paredes, e essas causas são provavelmente a redução do estresse mecânico,
+devido ao relaxamento corporal comparativo, perda do tônus ​​vasomotor no
+área esplâncnica e as doenças crônicas das quais os sujeitos apresentam
+morreram cujos corações e vasos são medidos _post mortem_. Durante
+nesta fase da vida também o sangue se torna mais venoso em qualidade
+e seu valor de hemoglobina é reduzido.
+
+Aos 65 anos, outras mudanças que ocorrem no coração e nas artérias são
+não menos impressionantes do que aqueles que acabei de descrever. O
+declínio da energia circulatória e os efeitos do próprio tempo
+no protoplasma das células do corpo, diminuíram tanto a
+energia metabólica e funcional dos tecidos e órgãos e da
+atividade do suprimento sanguíneo, que uma proporção considerável da
+a rede capilar torna-se obsoleta. A resistência periférica é
+assim aumentou, e a pressão arterial sobe; portanto, o coração
+aumenta tanto de tamanho que ao final dos 10 anos
+(75 anos) é encontrado tão grande quanto era aos 45 anos e ao mesmo tempo
+vez que o valor da hemoglobina no sangue volta a ser mais alto.
+Durante este período, também, as artérias continuam a crescer mais largas e
+mais grosso e mais longo - outra prova de que o tamanho do coração é
+não são determinados apenas pelo seu calibre. Considerado como um todo, o
+processo de senescência do sistema cardiovascular nos apresenta uma
+belo exemplo de reajuste e compensação anatômica - o
+contrapartida, de certa forma, do crescimento da circulação de energia
+e atividade durante o período da plena maturidade. As paredes arteriais,
+que foram esticados em seu diâmetro e em seu comprimento por
+exaustão de sua elasticidade sob o estresse da sístole cardíaca,
+são reforçadas novamente pelo desenvolvimento de estadas formadas por
+tecidos fibroides e musculares na íntima e média; e o coração
+responde à condição mecânica alterada à sua frente no
+artérias e ao aumento da resistência periférica causada pela
+obsolescência de muitos capilares, através do crescimento renovado.
+
+Esta conta se refere ao tamanho das artérias após os 40; agora vamos
+nos perguntamos qual é a condição de seus elementos estruturais.
+as alterações descritas não envolvem necessariamente doença do tecido
+elementos, a menos que chamássemos toda mudança senil de mórbida. Meu
+os amigos Dr. Bosanquet e Dr. Mullings me deram um relato de
+o estado do coração e da aorta nos corpos de 25 homens, com 40 anos
+e acima, examinado na sala _post-mortem_ de Charing Cross
+Hospital, que morreram em acidente ou suicídio. A idade média
+tinha 53 anos e meio e a aorta apresentava algum grau de ateroma
+em metade dos casos. Quando consideramos quão pequena é uma mudança no
+arco da aorta é habitualmente descrito como "ateroma", e que em
+em alguns casos as válvulas estavam doentes e o coração dilatado,
+estamos justificados em concluir que na maioria das pessoas de
+53 as artérias ainda estão saudáveis. Este resultado está de acordo com o que
+obtido pelo falecido Professor Humphry, que dedicou sua atenção tanto
+longo e com tanto sucesso para a investigação da velhice. Ele afirma
+que na grande maioria dos casos o sistema arterial parece
+apresentam uma condição saudável naqueles que atingem a idade avançada.[2]
+Mesmo entre a maioria dos centenários as evidências de doenças arteriais
+degeneração não se manifestassem.[3] E sabemos que ocasionalmente
+conhecer pessoas com 80 anos ou mais cujos pulsos são inquestionáveis,
+além de apresentar traços de espessamento e alargamento.
+
+  [2] Humphry, 'Velhice', 1889, p. 23.
+
+  [3] _Op. cit._, pág. 48.
+
+Para o meu propósito atual, portanto, podemos concluir que, à medida que a idade
+avanços, as artérias naturalmente se tornam mais largas, longas e grossas,
+e totalmente maior do que no início da vida; e que não devemos
+falam de "degeneração vascular" num sentido maligno sempre que
+encontrar essas condições presentes. Quanto ao coração, sabemos que ele
+pode permanecer estruturalmente sólido e é mais frequentemente regular do que
+irregular, até os anos mais avançados da vida. Por outro lado, estes
+fatos sugerem que doenças reais das artérias e do coração, que
+é, além das mudanças que são encontradas em todas as pessoas após os 45 anos,
+não são propriamente senis em sua natureza. Como disse o Professor Humphry,
+eles não fazem parte, mas devem ser considerados desvios
+dos fenômenos naturais ou desvios mórbidos deles.[4] Eles
+devem ser os efeitos de processos patológicos devido a uma variedade de
+influências patogênicas que afetam a circulação. Agora estamos em
+uma posição para estudá-los.
+
+  [4] Humphry, 'Velhice', 1889, pág. 15.
+
+Após os 40 anos, muitas das influências que ameaçam o coração
+e artérias com desordem e doença são peculiares a este período
+da vida - isto é, diferente e distinto das causas da doença cardíaca
+e afecções vasculares na infância, adolescência e idade adulta;
+outros deles já foram encontrados, com ou sem
+danos permanentes como resultado. Vou agora examiná-los em detalhes,
+e ao mesmo tempo fazer referência a certas disposições com as quais o
+o coração e as artérias são dotados para resistir a eles e se recuperar
+naturalmente pelos seus efeitos, bem como pelas circunstâncias
+que tornam estas disposições ineficazes ou insuficientes e, portanto,
+predispor à doença ou determinar indiretamente sua ocorrência.
+
+       * * * * *
+
+1. O _estresse físico_ ainda é uma causa definitiva de problemas cardíacos e
+danos vasculares durante a segunda metade da vida, nas formas
+de esforço violento repentino e de ocupações laboriosas comuns.
+Já me deparei com casos de tensão aguda e grave em todas as idades
+acima de 40, até e mesmo depois dos 70. Estou ciente de que devo falar sobre
+esta parte do meu assunto - os efeitos nocivos do exercício muscular - com
+grande cautela na presença de você, Senhor, nosso Presidente, que
+há muito tempo somos reconhecidos como um dos principais patrocinadores em nossa
+profissão de esportes atléticos, e você se destacou muito
+neles em Oxford e nas competições interuniversitárias. Presumo
+que você não está disposto a admitir que o exercício muscular é perigoso
+para a saúde. Mas tenho certeza de que você concordará comigo que quando o
+homem de 65 anos sai correndo da mesa do café da manhã para pegar o trem, ou
+a senhora de 70 anos sobe apressadamente uma colina no País de Gales para chegar a tempo para o amanhecer
+serviço, ou o pai de meia-idade de férias, que acaba de começar
+uma bicicleta para reduzir seu peso, tira o ritmo do filho
+de 17, o efeito no coração e nas artérias provavelmente será sério.
+Tenho registros de muitos casos de tensão cardíaca em pessoas de meia-idade
+e idosos devido ao ciclismo; alguns poucos devido a esforços violentos
+para dirigir no golfe; alguns por esforços para levantar ou resistir
+pesos pesados; e um caso notável em que um membro da nossa própria
+profissão, um homem de 45 anos, pertencente ao Corpo Médico do Exército Real,
+desmoronou com dilatação cardíaca aguda durante a internação do general French
+passeio memorável para aliviar Kimberley. Em alguns dos meus casos houve
+não há razão para acreditar que o coração era diferente de sadio antes do
+tensão; mas na maioria delas (e analisei 40, das quais
+Tenho notas mais ou menos completas) uma ou mais das salvaguardas de
+a circulação contra a tensão já estava defeituosa ou ausente.
+O que são? No coração, principalmente um alto grau de extensibilidade
+ou elasticidade dos seus tecidos, permitindo a distensão excessiva do
+câmaras, com ação de válvula de segurança da tricúspide em casos extremos
+casos, e uma musculatura sólida e vigorosa para efetuar o aumento
+ação, e se necessário a hipertrofia, que estresse mecânico
+demandas - em uma palavra, paredes cardíacas saudáveis ​​e bem nutridas. É
+um fato interessante é que dois terços dos meus casos de distensão cardíaca
+na segunda metade da vida apresentou também história de gota, totalmente
+desenvolvido ou irregular - em outras palavras, uma história de perversão
+metabolismo. Outro fato igualmente impressionante a esse respeito é:
+que em muitos casos a ocorrência de tensão em fase média ou avançada
+a idade foi apenas o mais recente de uma série de eventos semelhantes como resultado
+de esforço muscular por um período de 10, 20, 30, 40 ou mesmo 50
+anos - em outras palavras, o coração havia sido forçado originalmente em
+juventude ou início da idade adulta, e causou sérios problemas com a maior frequência possível
+foi taxado novamente. Remar ou correr na faculdade estava em muitos
+exemplos dados como causa da primeira tensão. Não preciso fazer mais
+do que mencionar doença valvular prévia, geralmente de origem reumática,
+como uma condição fortemente predisponente à lesão cardíaca por fatores físicos
+esforço. Exceto desta forma indireta, o reumatismo não tem efeito
+na redução da resistência do coração ou dos vasos ao estresse mecânico.
+
+A principal salvaguarda que as artérias possuem contra a tensão
+é, claro, a extensibilidade e elasticidade dos seus tecidos.
+Infelizmente, os distúrbios metabólicos, incluindo a gota, que temos
+apenas descobriram que o enfraquecimento das paredes cardíacas está entre os mais comuns
+causas da degeneração arterial também; e as duas influências - gota
+e tensão - agindo em conjunto, sem dúvida, são responsáveis ​​por uma
+número considerável de casos de ateroma e arterite crônica.
+naturalmente pode ocorrer-nos que a gota e o esforço não poderiam bem
+estar associados, mas esta mesma consideração serve para explicar a sua
+influência mútua no esforço do coração. É imprudente, inoportuno,
+exercícios musculares mal planejados que prejudicam a circulação, principalmente
+muitas vezes por parte do homem de meia-idade, que, ao despertar para a
+consciência de engordar e ter gota, corre irrefletidamente para
+exercício violento para alívio.
+
+2. É geralmente reconhecido que a excitação nervosa e outras
+_Influências nervosas_ sobrecarregam a circulação; e frases sem fim
+e expressões, articuladas e inarticuladas, testemunham a
+crença universal na estreita ligação entre o coração e a
+emoções. Recentemente, o Dr. Leonard Hill e o Dr. George Oliver
+demonstraram instrumentalmente o aumento da pressão arterial que
+acompanha a atividade cerebral.[5] Sem dúvida, muitos casos de transtorno
+e doenças das paredes do coração e das artérias se originam em
+angústia, preocupação, ansiedade e suspense prolongado; e a conexão
+é mais frequentemente visto na meia-idade e na idade avançada, porque estes
+emoções depressivas recaem mais pesadamente sobre a humanidade neste período.
+Dos casos que conheci, mencionarei apenas um ou
+dois a título de ilustração. Um membro do Comitê de Reforma em
+Joanesburgo na época do ataque de Jameson, que havia sido confinado
+na prisão de Pretória, voltou para casa algum tempo depois com o normal
+sintomas e sinais de degeneração gordurosa do coração e morreu
+de repente na rua. Um detetive que havia rastreado suspeitos
+e criminosos em todo o mundo, enfrentando grande perigo pessoal,
+e em uma ocasião teve que transportar um pacote de dinamite encontrado
+perto de um escritório do governo para um local seguro a muitos quilômetros de distância,
+mais tarde, fiquei sob meus cuidados com esclerose arterial e cerebral
+trombose, para a qual nenhuma outra causa além de uma vida de aventura poderia
+ser descoberto. Estes eram casos de doenças reais do coração e
+sistema arterial respectivamente; e não preciso acrescentar que os distúrbios
+ou distúrbios da circulação, de todos os graus e variedades, o
+resultado de excitação nervosa ou depressão, ficam constantemente sob
+nossa observação, especialmente em mulheres. Gostaria de mencionar particularmente,
+no entanto, um grupo de problemas cardiovasculares que se situam entre estes
+dois extremos. Tenho observado frequentemente que pessoas com ansiedade
+e temperamento enérgico, sobrecarregado com o trabalho responsável de um
+caráter pesado, constante e prolongado, quando se rompem,
+como frequentemente fazem, apresentam as características clínicas de alta tensão:
+o pulso está cheio, o coração está grande, o segundo som aórtico é
+alto e vibrante; há poliúria e pode haver vestígios de albumina
+encontrado. Esta perturbação da circulação, fortemente sugestiva de
+rim contraído, é tão comum em mulheres quanto em homens - por exemplo,
+em matronas de escolas ou hospitais. No entanto, por mais claro que seja
+a conexão direta entre tensão nervosa e problemas cardiovasculares
+a doença pode ser, em muitos casos, irreal em outros,
+ou mais corretamente apenas indireta. Esta é uma questão de grande praticidade
+importância. Primeiro, o temperamento nervoso muitas vezes leva os sujeitos
+dele ao excesso de trabalho físico na forma de incessante e prolongado
+dedicação ao trabalho, com horas insuficientes de descanso e sono, e para
+tentativas imprudentes de remover a exaustão nervosa por meio de exercícios musculares violentos
+exercício, como acabamos de ver. Em segundo lugar, o álcool
+desempenha, sem dúvida, um papel importante em muitos casos considerados
+como excesso de trabalho, preocupação e exaustão nervosa, tanto em homens como em
+mulheres - álcool consumido para permitir que mais trabalho seja realizado, para
+acalmar os nervos, promover o sono, afastar preocupações ou
+aliviar a fraqueza que ele próprio induziu. E em terceiro lugar,
+muitas das queixas de depressão nervosa, desânimo e preocupação são
+realmente devido à gota, à gripe e coisas do tipo, que estão no
+ao mesmo tempo as verdadeiras causas dos sintomas cardíacos.
+
+  [5] Leonard Hill, 'Sistema de mim inc.' de Allbutt, vol. xii; George
+  Oliver, 'O sangue e a pressão arterial', p. 170, 1901.
+
+3. O que acabei de dizer em relação às causas nervosas de
+afecções cardiovasculares nos levam naturalmente a essa importante
+grupo de agentes que podem ser sumariamente chamados de _agentes cardíacos extrínsecos
+venenos_--álcool, tabaco, chá, café e chumbo. Eu não vou
+insistir neste assunto no momento, pois não há necessidade de provar
+a realidade da conexão, e terei ocasião de me referir
+a alguns desses venenos com mais detalhes sob o título de
+diagnóstico. A doença cardíaca alcoólica ocorre tanto em homens quanto em mulheres; o tabagismo
+coração é extraordinariamente comum em nossa própria profissão, e comum
+em clérigos e em membros aposentados dos serviços públicos;
+intoxicação por café e cacau que encontrei principalmente em
+estudantes.
+
+4. Não há dúvida de que as causas mais prolíficas
+de distúrbios cardiovasculares e doenças após os 40 são _distúrbios
+do metabolismo_, incluindo gota - pelo menos entre os médios
+e classes altas neste país. Este período da vida traz
+com isso, em muitos casos, relaxamento comparativo do trabalho e uma
+disposição para substituir exercícios ativos por exercícios silenciosos ou mesmo passivos;
+e enquanto as exigências do crescimento e desenvolvimento da alimentação
+sistema declinaram muito, os prazeres da mesa e a facilidade
+geralmente são muitas vezes considerados como um privilégio de progredir
+anos e a recompensa legítima dos anos anteriores de trabalho.
+os resultados são distúrbios funcionais do fígado, gota em condições regulares e
+formas irregulares, cascalho e os muitos distúrbios associados
+muscular, nervoso e outros sistemas. Ao mesmo tempo, o arterial
+a tensão aumenta, pois o corpo possui uma provisão fisiológica para
+eliminando os produtos nitrogenados do metabolismo, sejam eles normais
+ou anormais, nomeadamente, os rins, o mecanismo vasomotor e o
+coração. Estimulação do centro vasomotor por resíduos nitrogenados
+aumenta a pressão arterial; o coração é excitado para um ritmo mais vigoroso
+contração (se necessário hipertrofia); e a consequente
+A poliúria elimina os venenos intrínsecos do sistema. Assim,
+acontece que em distúrbios metabólicos, por excesso ou consumo prejudicial
+comendo e bebendo, o coração, os vasos e os rins são mantidos sob
+tensão incessante; e, como outros órgãos que trabalham sob tensão no
+sujeito gotoso, eles são os mais propensos a sofrer - primeiro de distúrbios
+de muitos tipos e, em última análise, a menos que a reforma seja aplicada, de
+degeneração cardiovascular e doença de Bright crônica.
+
+Dos muitos casos deste tipo que vi em todas as idades entre
+40 e 80 (e outros antes dos 40), a proporção de gota irregular
+para gota articular aguda foi de cerca de 3 a 2. Sob gota irregular
+Incluo a gota em suas muitas formas - dor de cabeça, eczema,
+ciática, lumbago, dispepsia ácida, bexiga irritável, asma,
+insônia, vertigem, depressão e a tez familiar e
+aparência geral do "indivíduo gotoso", todos de forma variada
+combinado.
+
+Em outros casos, os distúrbios metabólicos não chegam até nós como
+gota ou mesmo gotosidade na acepção comum do termo,
+mas nas formas de obesidade, de diabetes, de cascalho, de irregularidades
+albuminúria e dos efeitos da alimentação exagerada e da vida livre em
+em geral.
+
+5. _Sífilis_--aquela causa frutífera de doença vascular, e ambas
+direta e indiretamente de doenças cardíacas - não cessou de forma alguma
+para atacar os órgãos da circulação após os 40. Seja qual for a data de
+a infecção primária, a sífilis, é um perigo permanente para o coração
+e artérias no homem de meia-idade e até mesmo em anos de declínio.
+Assim, em 11 casos pertencentes a este grupo, a idade média em que
+eles ficaram sob minha observação (a maioria deles, mas não todos reclamando
+de sofrimento cardíaco) foi de 55. Todos eram homens. Devo acrescentar
+que numa proporção considerável dos casos, quer físicos
+tensão, álcool, tabaco ou doença de Bright foram associados a
+sífilis na etiologia, e às vezes mais de uma delas.
+
+6. Para o homem e a mulher com quarenta anos ou mais, a maioria
+das _febres agudas específicas_ são assuntos do passado. Mas a
+a responsabilidade para com vários deles permanece e, infelizmente, a
+responsabilidade por aqueles processos específicos agudos que podem atacar o
+sistema cardiovascular - gripe em particular, e menos frequentemente
+febre tifóide, reumatismo, difteria e pneumonia, bem como
+septicemia de diferentes formas ou tipos, que causa estragos em todo o corpo
+toda a circulação. Eu deveria ter dito mais sobre isso
+cabeça, mas pelo fato de que nosso distinto companheiro e ex-
+O Presidente, Dr. Sansom, investigou-o exaustivamente e em mais
+mais de uma vez apresentou os resultados diante de você.
+
+7. Não ocuparei seu tempo esta noite rastreando o
+origem de certos casos de doenças cardiovasculares no Médio e
+vida avançada para _afecções crônicas_ de diferentes tipos. Além disso
+os efeitos óbvios sobre o coração, o sangue e os vasos sanguíneos,
+anemia, exaustão, etc., encontramos lesões graves como gordura
+degeneração por anemia perniciosa e outras doenças sanguíneas;
+distúrbios circulatórios profundos e, ocasionalmente, lesões valvares
+na doença de Graves e outras.
+
+8. Passo agora para as _causas complexas_. Além das causas definidas
+e influências distintas que mencionei como ameaçadoras
+coração nesta fase da vida, existem dois que estão intimamente
+associada a outras causas de doenças cardiovasculares, mas ainda
+merecem se destacar de forma independente. O primeiro deles é o enfisema,
+e junto com ela outras afecções crônicas dos pulmões e da pleura,
+que sobrecarregam o ventrículo direito; a segunda é a doença de Bright crônica
+doença, que da mesma forma sobrecarrega o ventrículo esquerdo. Eu terei
+ocasião frequente de retornar a esses dois estados mórbidos em diferentes
+partes do meu assunto. Menciono-os aqui para lhes dar a posição
+que eles merecem como influências que ameaçam a função e
+ainda mais a estrutura do coração e das artérias. Eles são frequentemente
+associados entre si, e cada um ou ambos com um
+ou mais das influências desfavoráveis ​​que acabei de enumerar,
+particularmente álcool, metabolismo desordenado e gota. E isso
+leva-me aos muitos casos em que as diferentes influências
+que ameaçam os órgãos circulatórios na meia-idade e na velhice
+juntos em diferentes combinações. O alcoolismo é igualmente comum
+entre os pobres, cuja circulação está sujeita a mecanismos
+estresse, enquanto é empobrecido pela necessidade; os ricos, que lideram
+vidas luxuosas, sedentárias e enervantes; e, como já mencionei
+observado, o homem de negócios ou profissional ativo e entusiasmado que trabalha demais
+seu cérebro com estimulantes. Neste país, pelo menos, a gota parece
+ser onipresente e ter uma influência desfavorável no coração e
+vasos muitas vezes não pode ser dissociado do álcool, sedentarismo
+hábitos, preocupação, plumbismo, doença de Bright e enfisema.
+
+Assim, em nosso estudo de combinações de influências mórbidas chegamos
+para apreciar o efeito maléfico de certas _ocupações_ sobre o
+circulação na meia-idade. O homem de negócios está exposto à
+ações prejudiciais ao seu coração de confinamento a um escritório fechado
+ou loja, preocupação, alimentação irregular e apressada, indulgência alcoólica em
+conexão com seu comércio ou profissão e tentativas imprudentes de
+exercício muscular violento no fim de semana ou na temporada de férias;
+ou ele pode ser culpado de total desrespeito às regras do corpo e
+higiene mental e, desta forma, provocar uma degeneração prematura da
+seu sistema cardiovascular. Ainda mais numerosas são as causas em
+trabalhar na produção do "coração do soldado". Temos apenas que imaginar
+para nós mesmos, se pudermos, o esforço físico, a excitação mental,
+as dificuldades físicas - incluindo a exposição a ambos os extremos de
+temperatura - e a comida grosseira que tem sido o destino de muitos
+milhares de nossos bravos soldados na guerra dos Bôeres, para entender como a
+O soldado combatente "envelhece" rapidamente e, em particular, envelhece em sua
+coração e artérias. Adicione a essas influências desfavoráveis ​​a sífilis,
+álcool e tabaco (que, infelizmente, devem ser adicionados em muitos
+casos) e a chance de escapar da doença da circulação
+no soldado é praticamente _nulo_. Mas o "coração de soldado" também é
+encontrado em outro lugar que não o exército. O clérigo das favelas
+de Londres ou de outra grande cidade, que viveu e trabalhou e - pode ser
+ser dito verdadeiramente - lutou com vários sucessos por meio de alternativas
+períodos de excitação e depressão, e assim sofreu muito
+tanto na mente quanto no corpo, chega até nós com pulso de alta tensão, um
+artéria radial tortuosa, um coração grande e um sopro sistólico sobre
+aorta e queixa-se de uma crise de angina. Sua esposa, que tem
+trabalhou na paróquia durante anos (ela tem 76 anos e ainda está ativa em sua
+trabalho de caridade), também tem uma artéria radial espessada, um coração grande,
+e um sopro sistólico básico, sem causa detectável destes
+evidências de uma circulação doentia, mas a vida que ela levou
+entre os pobres ao seu redor. Talvez tais casos de doenças cardiovasculares
+A doença pode ser mais corretamente atribuída ao desgaste
+da vida. Eles também são encontrados no viajante ou explorador, que
+passou a maior parte de sua vida em busca de aventuras; e elas são
+encontrado em um homem que nunca saiu de casa, mas cujos anos foram
+cheio do trabalho e da ansiedade de sua posição como proprietário de
+terra, ou com litígios prolongados.
+
+       * * * * *
+
+Tais são as principais influências naturais que, individual ou
+em diferentes combinações ameaçam ou atacam o coração sadio e
+vasos sanguíneos após os 40 anos. Eu dei apenas uma resposta ampla e apressada
+esboço deles inteiramente de minhas próprias observações recentes, e eu
+saiba que omiti alguns que na sua opinião podem merecer
+menção, mas que não possuem interesse especial em relação a esta
+período da vida - por exemplo, os agentes de infecções agudas de
+o endocárdio, e também novos crescimentos, gravidez e parto.
+Deixe-me agora resumir os resultados e dizer que qualquer mudança que ocorra
+sistema cardiovascular pode apresentar-se na meia-idade e na velhice,
+além daquelas que consideramos naturais para ela naqueles tempos
+períodos específicos, são patológicos - o resultado do estresse físico,
+influências nervosas, venenos extrínsecos, distúrbios do metabolismo,
+sífilis, doença aguda ou doença crônica; ou estão associados
+com nefrite crônica, enfisema ou diferentes combinações de
+causas precedentes, com diversas ocupações ou posições na vida, ou
+com outras influências de menor importância. É necessário, no entanto,
+para qualificar esta afirmação em dois aspectos. Em primeiro lugar, a
+coração e vasos sanguíneos podem já ter sido danificados, isto é, em
+no início da vida, que são vítimas de influências que, quer
+em espécie ou em grau, teria sido insuficiente para produzir
+doença idiopática desses órgãos. Isso me leva ao assunto de
+doença valvular antiga (principalmente de origem reumática), crônica
+tensão e pericárdio aderente em indivíduos de meia-idade e idosos.
+Uma proporção considerável dos nossos casos são deste tipo e eles
+devem ser mencionados aqui para dar completude ao assunto
+o plano de arranjo, mas estão fora do alcance do nosso
+assunto imediato. Em segundo lugar, corações e artérias a 40
+que parecem livres de danos a olho nu podem ser molecularmente
+fraco e incapaz de oferecer resistência eficaz até mesmo às influências
+de caráter cotidiano. Cheguei agora ao último, e
+certamente uma das causas mais interessantes da doença de
+o coração e as artérias na meia-idade e na velhice. Existem alguns
+pessoas cujos corações e artérias não conseguem transportá-los através do desgaste
+e o rompimento do que pode ser chamado de vida comum por mais de 40 ou 50 anos
+anos. A energia vital dos tecidos desses órgãos se esgota
+prematuramente; já são velhos aos 45 anos; degeneração do
+músculos e outras células se instalam cedo, lembrando-nos do essencial
+paralisia miopática em crianças. Este tipo de caso é descrito como
+“coração de família”, pois também corre em famílias - três, quatro, cinco,
+ou mais membros dos quais, como em vários casos que eu tenho
+observado, todos podem ter morrido repentinamente de doença cardíaca - alguns deles
+eles em tenra idade. Da mesma forma, não é de forma alguma incomum
+encontrar indivíduos bastante jovens, digamos de 30 anos, com vasos já muito
+ampliado; e posso acrescentar, igualmente jovens indivíduos com seus pulmões
+já enfisematoso embora não haja história de problemas respiratórios
+tensão, lembrando-nos da associação muito comum de enfisema
+com esclerose arterial na velhice. Esses casos de problemas cardíacos familiares e
+esclerose arterial prematura são os elos que conectam a doença de
+o coração e as artérias na meia-idade e na idade avançada definitivamente
+origem patológica com as alterações genuinamente senis no
+elementos de tecido que tornam a existência insustentável no final, e que
+pode-se dizer que é o resultado do esgotamento de sua nutrição
+atividade pelos "mil choques naturais que a carne herda".
+
+
+
+
+AULA II.
+
+
+SENHOR PRESIDENTE E SENHORES,--Na minha última palestra apresentei
+você um breve relato da condição dos órgãos de circulação
+entre 40 e 75 anos, e então passei a direcionar seu
+atenção às principais influências que podem desordenar e causar danos
+durante esse período da vida. Tentarei agora descrever
+os caracteres clínicos e o curso das afecções do coração
+e artérias, como as observei, em conexão com estas
+influências diferentes, respectivamente - seja gota, estresse mecânico,
+sífilis ou outras. Depois disso, se o tempo permitir, poderei
+examinar os diferentes sintomas e sinais individualmente para
+descubra o valor de cada um como guia no diagnóstico.
+
+Agora, como já indiquei, as causas da doença cardiovascular
+doenças na segunda metade da vida são muito frequentes, na verdade geralmente,
+complexo. Segue-se, portanto, que se desejamos, como fazemos a maioria
+em particular, para descobrir os efeitos de cada influência patogênica
+ao contrário dos demais, devemos começar nosso estudo com o
+o mais simples, o mais puro ou o mais definido de todos, e procede dele
+para aqueles que são mais difíceis, bem como para combinações
+de causas. É fácil adotar esse método em nossa presente investigação.
+
+
+CORAÇÃO DE TABACO.
+
+Temos no tabaco uma única influência distinta em ação; uma que é
+universalmente reconhecido por afetar o coração e os vasos sanguíneos, e o
+ação fisiológica da qual se compreende; uma, além disso, que pode
+ser removido (talvez não sem alguma dificuldade, pois eu tive um
+paciente implora por seu cachimbo com lágrimas nos olhos) e certamente
+que sempre pode ser retomado com notável prontidão - em uma palavra,
+um assunto muito favorável à observação por experimento. É
+bem, também, para começar o estudo do coração do tabaco em homens jovens, cujos
+a circulação ainda está estruturalmente sólida e, posteriormente, seguir
+o assunto em pessoas de meia-idade e idosos. Adotando esta linha
+de investigação, descobri que os efeitos descomplicados do tabaco
+em corações jovens e saudáveis, conforme se apresentam clinicamente,
+são: palpitações em todos os momentos; sensação de ação irregular,[6]
+opressão pós-esternal e dor em metade dos casos; e em um em cada
+de cada oito pacientes sofrem de angina ou sensações desconfortáveis
+no braço esquerdo. Desmaios ou desmaios reais ocorreram em um terço,
+e tontura e uma sensação de morte iminente em um menor
+proporção. Voltando-se para os sinais físicos, o coração prova ser de
+tamanho normal em 50 por cento dos pacientes; em alguns é muito
+ligeiramente aumentado; o impulso precordial é frequentemente muito fraco, mas
+ocasionalmente aumentou em força e frequência, e quase tão frequentemente
+irregular como não; a tensão do pulso, com exceções insignificantes,
+Sempre achei baixo. Muito interessante, à luz do que eu
+vou te contar mais tarde, é o fato de que de 20 desses pacientes
+queixando-se do coração ninguém apresentou sopro cardíaco além de um
+sopro sistólico mitral fraco, variando com a postura ou cúbito. Isto é
+de acordo com os ensinamentos da farmacologia --que o tabaco atua
+nos ramos terminais do vago.
+
+  [6] Um amigo médico que sofreu de problemas cardíacos relacionados ao tabaco assegura
+  me que em um período ele conseguia distinguir as contrações do
+  aurículas e ventrículos.
+
+Agora estamos em condições de estudar o coração de tabaco em um homem de 40 anos;
+e novamente vamos começar com um homem que é saudável, ativo e sadio
+caso contrário. Ele reclama do seu coração e reconhece de bom grado
+(pois ele pertence à nossa própria profissão), no desconforto e
+ansiedade de que sofre, a pena de ter fumado por
+anos o tabaco mais forte e preto que ele poderia comprar. No entanto, seu
+o coração não está dilatado e os sons cardíacos podem ser descritos
+tão comuns não eram peculiarmente irregulares, a frequência
+mudando a cada momento e uma falha ocorrendo em intervalos curtos.
+Não há nenhum vestígio de murmúrio a ser encontrado em conexão com
+as válvulas e orifícios. Em idades acima de 40 anos, um estudo clínico da
+coração de tabaco é altamente instrutivo do ponto de vista prático.
+Embora a palpitação ainda seja a queixa comum, a dor, incluindo
+angina, é apresentada com mais destaque, assim como a fraqueza,
+desmaios reais, uma sensação de morte iminente e uma sensação de parada cardíaca
+irregularidade, sendo cada intervalo acompanhado de uma súbita
+apunhalar através da precordia. Alguns de vocês se lembrarão do Sr. Barrie
+relato pitoresco em 'My Lady Nicotine' do que ele chama de horrores
+dos seus dias de fumante, quando a dor no coração o fazia segurar a
+respiração — "uma ferroada", como ele descreve, e ele acreditou que estava morrendo.
+Nestes indivíduos o coração é mais frequentemente encontrado grande e
+fraco; o mesmo sopro sistólico fraco é ocasionalmente ouvido;
+o pulso radial é frequentemente irregular e a parede do vaso naturalmente
+grosso. Você notará que isso é uma combinação de sintomas e sinais
+suficiente para alarmar o observador casual. Mas quando o examinamos mais
+deliberadamente, à luz do nosso estudo do coração do tabaco em
+jovens, por um lado, e do nosso conhecimento do normal
+ou condição natural do coração e das artérias aos 60 anos, por outro
+Por outro lado, conseguimos tranquilizar a nós mesmos e aos nossos pacientes.
+justificado em concluir não apenas que toda lesão cardiovascular
+que pode ser encontrado em fumantes de tabaco não deve ser atribuído ao crédito
+de tabaco, mas, _vice-versa_ (e isso é de mais interesse para nós em
+nossa presente investigação), que toda dor precordial, angina, desmaio,
+ou pulso irregular em um homem de 60 anos com um coração de tamanho normal não é
+ser rapidamente consideradas evidências de doença grave sem maiores
+indagação sobre seus hábitos. O aumento cardíaco e o pulso forte
+pode não ser nada mais do que o resultado de uma vida de sofrimento físico e mental
+atividade: o sofrimento precordial pode ser resultado apenas do tabaco.
+O quão necessária é essa precaução ficará evidente para você.
+consideração pelos dois casos seguintes. O primeiro é o de um homem
+de 60 anos, ativamente engajado em atividades profissionais, que sofreu pela primeira vez
+de dor precordial de caráter alarmante há quatro anos e meio
+atrás, e teve ataques desde então, principalmente durante esforço e
+depois das refeições. Um dia no outono passado, no final de muitas horas de trabalho duro
+trabalho, animado por pelo menos 18 cigarros, ele estava correndo para jantar
+com um amigo quando de repente foi tomado por uma dor precordial que
+ele descreveu como assustador, irradiando para o braço esquerdo. Ele invadiu
+um suor frio, pensou que sua última hora havia chegado, e por um curto
+tempo teve comprometimento da consciência. Logo após este evento ele
+seguiu o conselho dos seus médicos e abandonou o tabaco (devo dizer por
+uma vez?), e desde aquele dia até hoje, agora seis meses, ele não teve mais
+mais problemas com seu coração.
+
+O segundo caso é igualmente impressionante. Um homem de 55 anos, de vida bastante ativa
+disposição e hábito corporal um tanto quanto completo, foi subitamente tomado
+com angina de peito em outubro de 1899. A dor era de uma forma surda
+caráter explosivo sobre a região do coração, e passou para
+o ombro esquerdo, até o cotovelo, e assentado particularmente em
+o pulso. Ao mesmo tempo, havia dor no maxilar superior
+região. O coração desacelerou de 75 para 50, e o sofredor sentiu
+que ele estava morrendo. A partir desse momento, ataques de angina ocorreram em
+sucessão rápida, cinco, seis, nove ou até onze em um único dia;
+ocasionalmente eles apareciam à noite. Essa experiência continuou
+por quase dois meses seguidos; na verdade, foram seis meses antes do
+A angina finalmente cessou. Foi aliviada instantaneamente com nitrito de amila;
+nitroglicerina não teve sucesso. No decorrer da prestação de aconselhamento a
+este paciente eu felizmente descobri que ele tinha acabado de deitar em um
+estoque de 2.000 charutos. A linha de tratamento era óbvia; e o
+o resultado foi, como eu disse, uma recuperação completa.
+
+Já me detive no assunto do coração de tabaco talvez por mais tempo do que
+era necessário, dirigindo-me, como estou, a uma reunião de praticantes de
+experiência e não uma classe de estudantes clínicos. Eu fiz isso para
+trazem-nos uma consideração importante à qual todos estamos aptos
+negligenciar no diagnóstico e ainda mais no tratamento, ou seja, que
+seja num coração senil comum, ou num coração que é a sede
+de doença valvular crônica, ou em degeneração arterial, algo
+mais do que as mudanças patológicas têm que ser em muitos casos
+considerado - geralmente alguma perturbação inteiramente adventícia que por si só
+pede tratamento, como indigestão, flatulência, preocupação, uma
+catarro brônquico, ou pode ser indulgência gratuita em tabaco, chá ou
+café.
+
+
+O CORAÇÃO NO ALCOOLISMO.
+
+Passemos agora a considerar, do ponto de vista clínico, a
+efeito sobre os órgãos de circulação de outra influência mórbida
+de um tipo definido, ou seja, álcool, ou talvez mais corretamente
+alcoolismo, deixando de lado as questões de forma e força
+da bebida ingerida e sua pureza.
+
+Os efeitos diretos do álcool no coração e nos vasos sanguíneos são
+de forma alguma tão facilmente determinados como os do tabaco. No primeiro
+lugar, eles são complicados com os muitos efeitos indiretos que isso
+produz nesses órgãos desorganizando as funções de alimentação
+e assimilação, o sistema nervoso e os rins, e com o
+efeitos secundários nos vasos e no coração da nefrite crônica
+pela mesma causa. Em segundo lugar, como vimos na minha primeira
+palestra, o alcoolismo é comumente associado à tensão nervosa,
+com gota e gotosa, com tabaco, com sífilis e não
+raramente com dois, ou mais, ou todos juntos. Eliminando
+na medida do possível, essas fontes de erro por meio de uma seleção cuidadosa de
+casos, acho que o coração alcoólatra na meia-idade e na idade avançada
+apresenta características clínicas, no seu conjunto, muito distintas daquelas
+do coração de tabaco, que acabamos de estudar. O mais marcante e
+o mais importante deles são as evidências de mudanças patológicas reais
+no tamanho do coração e na condição do miocárdio. Nós
+não encontrou nenhuma evidência de que o tabaco cause aumento cardíaco grave,
+e nem o álcool em indivíduos muito jovens, que apresentam principalmente
+ação excitada tanto em força quanto em frequência. Mas de 28 casos de
+coração alcoólico que examinei clinicamente em conexão com o
+presente investigação em indivíduos mais velhos, apenas dois corações eram de origem comum
+tamanho (e na verdade ambos os pacientes estavam sob
+40 anos de idade). Este resultado está de acordo com meu quadro patológico
+observações. Por exemplo, segui cuidadosamente a condição
+do coração de um homem intemperante de 43 anos, e _post mortem_ encontrado
+o coração pesando 17 onças, para ser universalmente dilatado em todos
+suas câmaras, e apresentar alargamento da abertura mitral
+sem lesão valvar, correspondendo a uma fraca sístole sistólica apical
+sopro ouvido durante a vida. Esses resultados também estão de acordo com
+aqueles nos casos de dilatação aguda do coração do Dr. Maguire
+alcoolismo, que ele registrou já em 1888[7] (quando, posso
+acrescentar que foram expressas dúvidas sobre a veracidade das suas conclusões
+por várias das nossas melhores autoridades em doenças cardíacas) e um dos
+que ocorreu em um homem de 23 anos. O Dr. Mott descobriu degeneração gordurosa
+do miocárdio em pacientes que morrem repentinamente durante o alcoolismo.[8]
+Com raras exceções, o impulso precordial é fraco - na verdade,
+muitas vezes é imperceptível; os sons são pequenos e fracos, e
+pode ser quase inaudível; em 20 por cento dos meus casos, um ápice fraco
+sopro sistólico pode ser ouvido, variando com a postura e do dia
+até hoje, significativo, sem dúvida, de vazamento através de uma valva mitral dilatada
+abertura. O coração alcoólatra é irregular e acelerado em cerca de
+metade dos casos. A tensão do pulso é geralmente baixa; em um terço dos
+os casos em que a artéria radial foi esclerosada; em um quinto deles
+havia albuminúria leve; as pernas podem estar edematosas.
+as queixas que o paciente nos faz são comumente de palpitações
+do coração, desmaios ou desmaios reais e dor precordial; mas
+é muito interessante observar que a angina de peito é rara em
+o coração alcoólatra em comparação com o coração de tabaco, na proporção de 4
+para 15 por cento. Com esses sintomas cardíacos propriamente ditos, geralmente há
+associado aos suores, frio nas extremidades e depressão,
+afundamento ou abatimento característico do alcoolismo. Mas é
+desnecessário para mim preencher este esboço da condição
+da vítima de alcoolismo agudo, subagudo ou crônico.
+Eu preferiria mencionar uma forma de falha alcoólica aguda do
+coração do qual vi um caso recentemente, mas que parece
+ser raro. Uma mulher de meia-idade, no final de cada uma de suas repetidas
+crises de alcoolismo ativo, tem doença violenta; passa a prostração
+em colapso, e por 24 horas ou mais ela fica deitada de costas,
+com todos os fenômenos do que pode ser chamado de fome aguda de ar. Ela
+respira alto e profundamente, a uma taxa de 36 por minuto, com
+expiração gemendo. A expressão é alarmada, desesperada e
+implorando; o nariz está comprimido; a superfície está lívida e fria; o
+a respiração é fria; o pulso é praticamente imperceptível no pulso;
+e ainda assim o impulso precordial é forte e extenso, e o
+frequência cardíaca muito acelerada. A condição é imediatamente uma
+de colapso e dispneia urgente, bem como em uma forma de chamada
+coma diabético; e é ainda mais notável porque pode passar
+de repente, depois de ter durado, como eu disse, muitas horas. É
+difícil resistir à conclusão de que em tal condição
+algum produto do álcool, presente no sangue, é a causa da
+fenômenos notáveis.
+
+  [7] Maguire, 'Trans. Clin. Soc. de Londres,' vol. xx, pág. 235.
+
+  [8] Mott, “Nutrição Cardio-Vascular e sua Relação com a Depressão Súbita
+  Morte", _Practitioner_, xli, p. 161.
+
+O curso do coração alcoólico em indivíduos mais velhos geralmente se torna
+afetados pelo aparecimento de cirrose hepática, doença de Bright
+doença, neurite e possivelmente demência. O método de término
+é muito variada, incluindo insuficiência cardíaca comum com hidropisia;
+e ocasionalmente ocorre morte súbita. Ainda assim, a recuperação está longe de
+sendo impossível, mesmo depois que a hidropisia tenha aparecido, para
+o tamanho do coração pode diminuir sob estrita abstinência de
+álcool e o edema desaparecem. Esta é uma questão de grande importância
+interesse prático, na medida em que sabemos que, embora o efeito
+do álcool no coração e na circulação é por um tempo funcional
+só que agora se torna verdadeiramente nutritivo, como nos casos que eu
+acabei de narrar. O miocárdio nem sempre está irreparável,
+embora ele e as finas fibras mielinizadas do vago sofram
+degeneração gordurosa segundo o Dr. Mott,[9] assim como existem
+alterações nas células piramidais e fibras do córtex cerebral em
+o alcoólatra; e a fraqueza e irregularidade do coração são
+análogos da depressão e confusão do cérebro.
+
+  [9] Mott, 'As palestras croonianas sobre a degeneração do
+  Neurônio, pág. 110, 1900.
+
+
+GOTA.
+
+Dos muitos casos de desordem e doença do coração e
+artérias que encontrei em indivíduos gotosos com 40 anos ou mais
+de idade, fiz um estudo cuidadoso de 29 retirados de minha conta privada
+livros de casos. Doze deles (10 M. + 2 F.) sofreram de
+gota articular comum, os outros 17 (6 M. + 11 F.) tinham gota irregular
+gota, conforme definido na minha primeira palestra. A idade média era de 62 anos.
+em nenhum caso houve albuminúria. A condição física do
+coração e artérias e as queixas do paciente eram notavelmente
+semelhantes nos dois grupos. Em 23 dos 29 o coração provou ser
+ampliado, em um ou ambos os lados. Em menos da metade do número
+a ação cardíaca era fraca; em um pequeno número o impulso era
+inteiramente imperceptível; a frequência cardíaca e de pulso eram normais;
+o ritmo raramente era irregular. É um fato muito notável que
+em nada menos que 12 dos 29 casos de coração gotoso, uma pressão sistólica
+sopro era ouvido na área aórtica, no manúbrio e no
+carótida direita, significativa de doença do arco aórtico ou
+das válvulas aórticas - em todos os casos, independentemente do reumatismo
+ou outra causa óbvia que não a gota. Este resultado é interessante
+confirmação das observações patológicas do Dr. Norman Moore
+e Sir Dyce Duckworth dado por este último,[10] e da declaração
+de Murchison[11] de sua experiência “que o ateroma das artérias
+em um período anormalmente precoce da vida e doenças da aorta
+válvulas que não são congênitas e são independentes de lesão
+ou reumatismo, são encontrados com muito mais frequência em pessoas que são
+indivíduos com discrasia do ácido lítico, ou que tiveram gota, do que
+naqueles que não tiveram tais tendências." Em sete (25 por cento).
+dos meus casos foi encontrado um sopro sistólico mais ou menos desenvolvido
+na área mitral, significativo de ateroma valvar e
+esclerose múltipla ou de vazamento por dilatação ventricular. Muito curiosamente
+Nunca me deparei com incompetência aórtica de origem gotosa. Quando não
+existe sopro os sons cardíacos são geralmente um tanto fracos e
+o segundo som pode ser de qualidade de toque - mais comumente em
+gota do que na gota desenvolvida. De acordo com esta conexão,
+o pulso radial é mais frequentemente tenso em indivíduos de pulso irregular
+do que a gota regular[12]; no total, a alta tensão é encontrada em mais
+mais da metade dos casos. A grande maioria apresentou sintomas distintos
+espessamento das paredes arteriais. Como sugeri em nosso estudo de
+a etiologia, essas alterações patológicas parecem ser o resultado de
+desnutrição de estruturas (miocárdio, válvulas e artérias)
+trabalhou em alta pressão; e além da perturbação local
+do metabolismo nas paredes cardíaca e arterial, que são alimentadas com
+sangue gotoso, há o efeito prejudicial sobre eles de uma doença semelhante
+do _vasa vasorum_ e _vasa cordis_ ou coronárias.[13] Além do mais
+uma sensação angustiante de irregularidade, vibração ou intermitência,
+e dispneia aos esforços, homens que sofrem de problemas cardíacos gotosos
+queixam-se mais frequentemente de dor precordial; as mulheres mais frequentemente de
+palpitações e desmaios ou desmaios reais. Em cerca de um quarto
+de todos os casos de coração gotoso a dor é anginosa, e essa angina
+pode ser do tipo mais pronunciado. Um amigo meu, de 60 anos,
+começou a sofrer de angina gotosa (diagnosticada como tal por seu
+médico de família há 40 anos) aos 20 anos. Quase todos os anos,
+com um pouco mais de frequência nos últimos 12 anos de sua vida, ele foi
+suscetível de ser acometido por dor intensa no lado esquerdo do peito,
+que rapidamente se estendeu para o pescoço e desceu pelo braço esquerdo, com
+formigamento na mão; sensação de grande constrição no peito;
+desmaio e dificuldade para respirar. Ele teve que descansar imediatamente,
+onde a angústia diminuiu; mas não desapareceu completamente
+por horas. Em diferentes ocasiões também, em conexão com estes
+convulsões anginosas, eu o conheci com hemoptise livre, completa
+inconsciência, vômitos e evacuação violenta repentina do
+intestinos. Ele também sofria de gota articular e de movimentos irregulares
+gota em quase todas as formas possíveis.
+
+  [10] Dyce Duckworth, 'Um tratado sobre gota', 1889, p. 108.
+
+  [11] Murchison, 'Palestras clínicas sobre doenças do fígado', 3ª
+  edição, 1885, p. 637.
+
+  [12] _Cf._ Clifford Allbutt, “Seleções das Palestras Lane,”
+  _Philadelphia Med. Journ._, 27 de janeiro de 1900.
+
+  [13] Mott, _Praticante_, _loc. cit._, pág. 169.
+
+
+OBESIDADE E GLICOSÚRIA.
+
+Intimamente relacionado à gota está um tipo clínico de distúrbio
+metabolismo, caracterizado principalmente pela corpulência, um corpo volumoso e flácido
+construir e glicosúria. Deste tipo, representado por 12 casos em meu
+série, nove apresentavam glicosúria e dois albuminúria; oito eram homens;
+a idade média era de 58 anos. Apenas um sofria de gota articular verdadeira.
+Aqui, mais uma vez, foi feita a observação interessante de que nada menos que
+três quartos do número apresentavam sopro aórtico sistólico, nenhum dos quais
+eles um sopro aórtico regurgitante, e quase metade deles um
+sopro sistólico mitral mal desenvolvido. Assim, parece haver mais
+responsabilidade pelo ateroma no diabético corpulento grosseiro, mesmo do que em
+o homem gotoso. Em todos os casos o coração parecia estar dilatado,
+mas o exame físico preciso é difícil ou impossível em
+muitos desses assuntos. O impulso era mais frequentemente fraco do que em
+o gotoso; os sons cardíacos eram igualmente fracos, e o segundo
+o som aórtico era ocasionalmente acentuado. O pulso correspondia
+com pulso gotoso em espessura e tensão, mas era mais frequentemente
+encontrado irregular e apressado. Quanto às queixas de corpulento e
+pacientes diabéticos, eles se mostram muito semelhantes aos da gota
+indivíduos em relação à dor, mas nem palpitações, nem desmaios
+nem a irregularidade foi tão frequentemente mencionada.
+
+Não deve ser entendido pelo que acabei de dizer em meu relato
+desses casos que todos os distúrbios do coração em indivíduos gotosos
+progredir para degeneração valvular ou vascular, com associação
+aumento e degeneração cardíaca. O amigo cujo caso eu tenho
+que acabei de descrever detalhadamente levou uma vida ativa, como eu disse, por
+40 anos; e, como espero mostrar na minha próxima palestra, a condição
+é passível de tratamento se este for baseado numa apreciação correta
+da causa que está em ação. Mas é igualmente verdade que se estiver correto
+conselho não seja dado, ou se for dado, seja negligenciado, como acontece
+com tanta frequência, o endocárdio e a aorta e outras artérias
+degeneração constante, a nefrite intersticial crônica faz sua
+aparência, e o paciente morre lentamente de insuficiência cardíaca
+ou repentinamente por hemorragia cerebral.
+
+
+TENSÃO CARDÍACA.
+
+Passarei agora a considerar as características clínicas de uma classe
+de casos em que o senhor está particularmente interessado - tensão
+do coração na meia-idade e na idade avançada. Para fazer disso parte do meu
+assunto mais claro, vou discutir em primeiro lugar a tensão aguda
+do coração como ocorre depois do quadragésimo ano; depois eu irei
+considere a condição do coração e das artérias nesta idade em
+pessoas que os forçaram na juventude ou no início da idade adulta.
+
+Um homem de 65 anos, que veio até mim queixando-se do coração, deu-me a seguinte
+seguinte relato do início de seu problema: - Quatro anos
+anteriormente, ao fazer uma tacada muito forte no golfe (a bola estava
+bunkered), ele foi repentinamente tomado por uma sensação de algo
+tendo acontecido em seu coração. Ele jogou até o próximo buraco, mas
+agora sentia o peito oprimido; sentou-se e sentiu alívio. Isto
+a experiência se repetiu e ele desistiu da rodada. Caminhando para casa
+duas milhas, ele teve que se sentar ocasionalmente com a mesma sensação.
+Desde então, o esforço produziu o mesmo efeito.
+Encontrei os sinais físicos comuns de aumento em ambos os lados
+do coração; um impulso quase imperceptível; os sons cardíacos
+extremamente fraco, sendo o segundo de qualidade finamente ressonante; o
+pulso tenso, calmo e regular, mas a artéria radial não
+esclerosado. As principais queixas do paciente eram de irregularidades
+ação do coração, que o incomodava ao deitar-se ou quando ele
+era dispéptico; e, como eu disse, de opressão pós-esternal em
+esforço. Este homem não tinha albuminúria nem enfisema, mas ele
+sofria frequentemente de gota articular comum. Pertencente
+para este tipo de tensão cardíaca tenho notas em todos os 11 casos,
+que resumirei brevemente. Oito eram homens, três mulheres; e
+a idade média era de 56 anos. Em todos, exceto um deles, o coração estava
+grande, com impulso precordial fraco; os sons eram pequenos e
+fraco; o som diastólico aórtico estava frequentemente zumbindo; em apenas um
+caso houve sopro - sistólico aórtico; com poucas exceções o
+o ritmo e a frequência cardíaca estavam normais. Em metade dos casos
+a artéria radial estava esclerosada; na maioria a tensão era
+não aumentou. Pessoas que forçam o coração após a meia-idade
+queixam-se principalmente de opressão precordial, dispneia ao esforço,
+uma sensação de palpitações e ação irregular do coração e dor,
+que pode resultar em angina; e podem nos dizer que a angústia
+e a deficiência nessas diferentes formas os incomodam há
+anos. Você deve ter observado que o homem cujo caso eu li
+em particular foi o assunto da gota; e isso me leva ao
+fato interessante é que desses 11 indivíduos sete eram gotosos.
+Já vimos o quão reduzida é a resistência do
+sistema cardiovascular em indivíduos gotosos; e estamos preparados para
+a prontidão com que seu coração pode ser forçado pelo esforço - uma
+assunto de óbvia importância profilaticamente. Em outros casos não
+incluídos neste grupo a distensão assumiu a forma de lesão valvar,
+ou afetou corações já sedes de válvulas antigas
+lesões de origem reumática; mas o presente não é a ocasião
+para discutir isso. Nem preciso acrescentar que um resultado não raro
+de tensão aguda do coração envelhecido, se suas válvulas foram
+já danificado ou com o miocárdio mal nutrido, é a morte súbita.
+Agora, posso entender que alguns dos meus ouvintes possam se opor a
+a aplicação do termo “tensão” ao efeito do esforço em
+corações gotosos e senis, assim como o Professor Clifford Allbutt, que é
+universalmente reconhecida como a mais antiga e mais alta autoridade neste assunto
+sujeito, sugere que a expressão clínica “tensão do coração”
+refere-se apenas a indivíduos relativamente jovens, livres ou quase livres
+da degeneração.[14] Pode-se argumentar com grande razão que
+o esforço nesses indivíduos não é causa de tensão ou dilatação de
+o coração, mas simplesmente um teste, por assim dizer, ou a prova, da função cardíaca
+debilidade e incapacidade. Mas quando consideramos a tensão cardíaca
+um pouco mais de perto, pode ser facilmente sustentado que
+cada coração dilatado, cada câmara cardíaca dilatada, cada dilatação
+o vaso sanguíneo foi tensionado. Se, por um lado, a válvula
+doença, doença de Bright ou enfisema, ou, por outro lado,
+degeneração miocárdica, perturbou essa condição cardinal de
+uma circulação normal que a potência motriz deve sempre exceder a
+resistência à frente, distensão excessiva e dilatação das cavidades,
+com estiramento excessivo de suas paredes, constituem ou consistem em
+deformação mecânica. No entanto, deixando de lado as discussões teóricas
+deste caráter, o grande fato prático permanece, que quando o
+coração envelhecido e mal nutrido fica distendido devido a mudanças repentinas e
+esforço severo, nem os tecidos elásticos nem os musculares de
+suas paredes podem suportar a tensão; ele se dilata; para o futuro ele
+atua em desvantagem mecânica; e sempre que isso ocorrer
+sofre ainda mais em sua eficiência. Por outro lado, é
+realmente em confirmação desta consideração, embora aparentemente em
+oposição a ela, para que o coração possa diminuir um pouco de tamanho e
+sofrimento precordial desaparece, sob tratamento rigoroso continuado por
+um período de tempo suficiente.
+
+  [14] Clifford Allbutt, 'Sistema de Medicina', v, p. 843.
+
+
+FAÇA A TENSÃO ANTES DOS QUARENTA.
+
+Um grupo de casos mais interessante do que aqueles que acabei de apresentar
+discutido é composto por pessoas que esforçaram seus corações em
+juventude ou início da idade adulta, nunca estiveram muito bem desde então, e em
+pessoas de meia-idade ou avançadas são finalmente levadas a nós em busca de ajuda. Casos
+deste personagem forneceria excelente material do qual nós
+pode tentar julgar os efeitos posteriores do excesso ou abuso
+do exercício muscular nos jovens. Este é um assunto tentador de
+discussão, mas muito longa e muito importante para ser tomada
+casualmente neste momento. Portanto, vou me contentar com
+apresentando a você, da forma mais clara possível, certos fatos relacionados a isso
+que me foram apresentadas na minha presente investigação, juntamente com algumas
+observações simples de cunho prático. Primeiro, então, deixe-me
+ler para vocês a história do que eu chamaria de um caso típico de
+gentil. Um homem de 69 anos reclama que sempre que caminha qualquer distância
+ou sobe uma escada, ele é preso por uma sensação angustiante de ter um
+barra na extremidade inferior do esterno, falta de ar, irregular
+palpitações no coração e um leve engasgo na garganta;
+o desconforto ultimamente mereceu o nome de dor. Seu coração está
+muito grande, a área de embotamento precordial sendo aumentada em todos
+direções e medindo transversalmente 7 polegadas. O impulso é
+fraco sobre o ventrículo esquerdo, mas definido no epigástrio; o
+os sons vêm em pares - moderadamente bons e muito fracos, respectivamente,
+sem sopro; e a artéria radial é grande e espessa, com
+pressão bastante baixa e ritmo irregular. Acontece que para o
+nos últimos 40 anos, esses sentimentos desconfortáveis ​​têm incomodado o homem
+mais ou menos, e isso em três períodos diferentes de sua vida - em
+31, aos 42 e aos 67 - aumentaram tanto que o incapacitaram
+por muitos meses, a primeira vez com uma sensação repentina de algo
+estalando no coração, a segunda vez com um desmaio, e sempre,
+como ele acredita, consequência do excesso de trabalho. Agora, este homem nunca teve
+reumatismo, nem gota, nem sífilis, e sempre foi uma pessoa temperada,
+fígado cuidadoso; e ele oferece a declaração de que sentiu pela primeira vez
+seu coração em Cambridge, onde era capitão do barco da faculdade,
+e foi testado para o barco da Universidade, mas sentiu que não estava apto
+para isso. Pertencente a este tipo de tensão cardíaca, selecionei
+11 casos. O coração sempre se encontra dilatado e em cerca de
+em metade dos casos é irregular. Pode ser fraco e pulsante
+à taxa normal, mas em outros casos é aumentada tanto
+em força e frequência. Só em casos bastante excepcionais encontrei
+com sopros endocárdicos neste grupo de corações velhos e tensos; como um
+regra os sons eram comuns, com disposição para acentuação de
+o segundo som aórtico. Alta tensão e esclerose do radial
+artéria foram encontradas respectivamente em cerca de metade dos casos.
+os pacientes queixam-se mais comumente de uma sensação angustiante de irregularidade
+palpitações do coração e muito comumente de dor precordial,
+mas raramente de angina. Desmaios também são às vezes mencionados. Deixe
+Apresso-me a acrescentar, com respeito a estes casos, que eles não
+incluir quaisquer casos de lesão direta das válvulas mecanicamente.
+Ruptura ou estiramento das válvulas aórtica e mitral durante
+o esforço nos fornece alguns casos clínicos muito notáveis; mas
+é com a tensão parietal que estamos preocupados agora - mecânica
+estiramento excessivo das paredes cardíacas, que depois ficam com
+mas uma margem estreita da reserva elástica e muscular necessária
+por eles para enfrentar circunstâncias difíceis de qualquer tipo, particularmente
+esforço. Os sujeitos da dilatação do coração por esforço mecânico
+estresse não sofre de forma alguma do que é comumente chamado de "coração
+doença", exceto nos piores casos, mas ainda assim sentem sua
+corações comparativamente, e pode ser seriamente, incapacitados. Naturalmente
+eles associam esses sentimentos de incapacidade a novas tentativas
+no exercício ou esforço, como no caso que acabei de ler. Eu
+salientei na minha primeira palestra que tal esforço não é de qualquer
+significa relacionado com a ocupação ou deveres diários do paciente, mas
+ocorre com bastante frequência durante tentativas imprudentes de sua parte de retomar
+aos 50 anos os exercícios atléticos de sua juventude para reduzir sua
+peso, aliviar o fígado ou dissipar a gota. Não é de admirar que
+sob tais circunstâncias, um órgão permanentemente aumentado e mal nutrido
+coração deve ficar envergonhado, ou mesmo seriamente perturbado ou
+ainda mais tenso. Conheci um homem de 43 anos que foi direto
+de Londres aos Alpes, não só têm sofrimento precordial, mas
+hidropisia nas pernas após sua primeira subida em suas férias regulares.
+Na verdade, o homem que chegou à meia-idade com o coração
+ampliado por anos de grande atividade corporal na juventude e se estabelece
+silenciosamente na aposentadoria, digamos da Marinha, às vezes
+descobre que o exercício regular é suficiente para produzir resultados alarmantes
+sofrimento cardíaco e curiosa perda de coragem, obviamente devido à
+tecido muscular das paredes cardíacas espessadas tendo caído bastante
+fora de condições. Quão instrutivo, por exemplo, é o seguinte
+caso:--Um cavalheiro de 60 anos, que desde a infância liderou uma
+vida de atividade física e ao mesmo tempo de temperança, e
+não sofreu nem de sífilis nem de reumatismo, mas possivelmente de
+um ataque muito leve de gota, instala-se numa relaxante cidade provinciana,
+continua a comer com gosto, e considera que um pouco de trabalho no
+jardim é exercício suficiente para ele. Ele aumenta de peso, seu
+a respiração fica curta, seu coração dispara e agora ele começa a ficar
+preocupado com sua saúde, imaginando, como ele diz, que tem tudo
+tipos de doenças - uma disposição para se preocupar consigo mesmo, o que é
+inteiramente novo e provocador para ele. Acho seu coração muito grande e
+fraco, os sons cardíacos quase inaudíveis e na área mitral
+um sopro sistólico bem desenvolvido. O paciente é orientado a reduzir
+sua dieta como um todo e em relação aos carboidratos, para retornar
+cuidadosamente para exercícios de caminhada em nível e para tomar um calomelano
+purga seguida de solução salina duas vezes por semana e uma dose leve de estricnina
+mistura. Ele melhora e continua melhorando; é capaz de caminhar quilômetros
+sem desconforto; e no decorrer de dois meses não só
+No exame físico, constatei que seu coração havia diminuído de tamanho, mas
+não consegue ouvir o sopro apical, que deve ter sido produzido por
+dilatação do ventrículo esquerdo. A importância de um caso como este
+sobre a patologia, prevenção e tratamento de certos casos de doenças cardíacas
+doenças em idosos serão óbvias para todos.
+
+Devemos ter cuidado, no entanto, para observar que nem o insensato
+abandono do exercício saudável, nem retorno imprudente à
+o esforço físico, separadamente ou em sucessão, pode ser considerado
+como a única causa da recrudescência do sofrimento cardíaco após
+40 para aqueles que tiveram problemas de circulação na juventude. Qualquer um
+das muitas circunstâncias que produzem insuficiência cardíaca e hidropisia
+na doença valvular crônica pode levar ao constrangimento e a novas
+dilatação do coração simplesmente aumentado: anemia e doença crônica,
+as febres agudas específicas, incluindo pneumonia, enfisema,
+rins, gota, sífilis, intoxicação por tabaco e álcool, bem como
+ansiedade e preocupação, e nas mulheres o advento da menopausa; e eu
+pode-se dizer aqui entre parênteses que dores no coração em atletas
+os jovens são por vezes devido ao tabagismo em que se encontram
+muitas vezes se entregam à socialização quando o exercício termina - não para forçar
+em absoluto. Nestes casos de tensão cardíaca antiga, como em todas as formas de
+doença valvular crônica e de doença cardíaca crônica de todos os tipos,
+não apenas a lesão original e permanente, mas também a recente e
+provavelmente a circunstância temporária que causou a falha deve ser
+apurado e plenamente respeitado em relação ao prognóstico e
+tratamento.
+
+
+SÍFILIS.
+
+A sífilis parece ser responsável por uma proporção muito considerável de
+os casos mais graves de doenças cardíacas que encontramos em idosos
+assuntos--excluindo, é claro, doença valvular crônica originada
+remotamente na endocardite. Mas devo repetir aqui o que tenho
+já mencionado, que a sífilis como causa de doenças cardiovasculares
+lesões é muitas vezes associada a outras influências mórbidas,
+particularmente a tensão e o álcool. Da sua posição como principal
+causa de doença grave das válvulas, distintas das paredes
+do coração, originando-se na meia-idade, não pode haver dúvida.
+Nada menos que nove dos 28 casos, dos quais tenho notas privadas,
+eram portadores de doença aórtica dupla; praticamente todos os
+outros tinham um segundo som alto e vibrante sobre a aorta, significativo
+de degeneração; dor do tipo anginosa em metade dos casos foi a
+queixa proeminente; e dois terços dos indivíduos tinham esclerose
+da artéria radial. Quando consideramos que a sífilis também
+afetam principalmente o miocárdio; que a doença fibroide, crônica
+aneurisma e degeneração gordurosa do coração são todos atribuíveis a
+doença específica das coronárias em muitos casos; e, finalmente,
+que muitos dos indivíduos com doença cardiovascular sifilítica
+morreram antes dos 40 anos, a magnitude desta causa pode ser totalmente
+percebi. Acredito que a profissão em geral ainda não
+acordei, se assim posso dizer, para a gravidade deste assunto. Como
+raramente perguntamos sobre o histórico de uma doença específica em pacientes
+vindo até nós com doença cardíaca na meia-idade! Para ninguém, como
+Até onde vai minha leitura, somos tão devedores da verdade sobre
+este assunto quanto ao meu amigo e colega Dr. Mott. Treze
+anos atrás ele publicou um artigo sobre 21 casos de morte súbita por
+doença cardiovascular, e em nove deles havia história de
+sífilis real ou provável. O que era de maior interesse,
+no entanto, naquela época inicial, ele chamou a atenção para a associação
+de lesões cardiovasculares sifilíticas com doença de Bright no
+ampla aceitação do termo. O trabalho do Dr. Mott no intervalo em
+lesões sifilíticas do sistema arterial do cérebro tem sido tão
+brilhante e é tão amplamente conhecido que não requer nada mais
+do que esta menção apreciativa minha, e me poupa o trabalho de
+uma excursão aos temas de hemorragia cerebral e trombose
+em conexão com essas palestras.
+
+
+TENSÃO NERVOSA.
+
+Confesso que é difícil dizer muita coisa que seja real
+valor diagnóstico no aspecto clínico das doenças cardiovasculares
+e doenças por tensão nervosa. Como observei ao discutir isso
+sujeito do ponto de vista etiológico, vários fatores surgem
+em jogo além da excitação nervosa seguida de exaustão e
+seus efeitos no coração, grandes vasos e artérias cerebrais;
+e os casos, portanto, apresentam uma variedade intrigante
+de características. Certos caracteres clínicos são, no entanto, comuns a
+a maioria. A tensão arterial é alta; a artéria radial é espessa,
+às vezes de forma acentuada; o coração aumenta; e em cerca de metade de
+nos casos em que um sopro sistólico é ouvido na aorta ou
+na área mitral, lesões endocárdicas crônicas significativas - todas
+resultados facilmente inteligíveis da tensão cerebral à luz de
+nosso conhecimento da inervação do sistema cardiovascular. Eu
+já apontaram que em alguns desses pacientes a poliúria
+e albuminúria temporária ocorrem junto com a alta tensão e
+o aumento da ação do coração; mas o coração pode falhar mais tarde
+sobre. Os sintomas cardíacos diretos dos quais se queixam são os seguintes:
+caráter comum, palpitações com frequência cardíaca acelerada
+e dor (não angina) sendo a mais comum no início, sentimentos de
+desconforto e sufocamento indescritíveis no estágio mais avançado.
+Muita coisa que eu poderia ter dito sobre o muito interessante
+sujeitos de pseudo-angina e do climatério e pré-climatério
+distúrbios da circulação nas mulheres, sou relutantemente compelido
+omitir por falta de tempo.
+
+       * * * * *
+
+Depois de ter revisto, como tentei fazer, o principal
+características clínicas dos transtornos e doenças do sistema nervoso central e
+vida avançada sob suas diversas causas, pode parecer para um
+momento estranho que o mais importante de todos os tipos clínicos de
+a degeneração cardiovascular foi mencionada apenas incidentalmente.
+Esta é a doença de Bright crônica, que, por sua complexidade
+relações patológicas, seus efeitos generalizados no coração e
+circulação e os órgãos que eles suprem, e a muito maior
+gravidade destes do que de qualquer uma das outras causas que temos
+estudada (a menos que seja sífilis), é um assunto de interesse infinito para
+todos nós. Felizmente para mim, meu antecessor imediato nesta cadeira em
+do lado médico, nosso distinto colega, Dr. Samuel West, assumiu
+para seu tema "Aspectos Clínicos do Rim Granular", e assim
+me livrou de uma tarefa que ele era muito mais capaz de desempenhar
+do que eu. O enfisema também deve ser ignorado com a única observação
+que é um acompanhamento muito comum tanto vascular quanto cardíaco
+degenerações.
+
+Espero que não conclua que a descrição que acabei de fazer
+dado a você as características clínicas desses vários distúrbios e
+doenças do coração é em qualquer sentido completo. Só se relaciona com
+os sintomas e sinais mais proeminentes conforme se apresentam
+nós no que poderíamos chamar de vida cotidiana do paciente, em um
+período na história de seu caso precedente ao fracasso. Em todos
+neles podem ocorrer ataques ocasionais de constrangimento agudo de
+o coração e os pulmões devido a uma ou mais causas, como
+como indigestão, excitação ou esforço excessivo. Mais cedo ou mais tarde, também,
+ocorre hidropisia cardíaca - desenvolvida insidiosamente após
+aumento do sofrimento local, dispneia crescente e "noites ruins"; ou
+Doença de Bright; ou trombose cerebral ou hemorragia, ou aguda
+insuficiência miocárdica com angina: ou o paciente morre por insuficiência de
+o coração no curso de alguma doença aguda, como bronquite ou
+pneumonia. Também não considerei necessário nesta palestra
+insistir em alguns dos fenômenos mais raros encontrados ocasionalmente, como
+taquicardia e bradicardia. Talvez eu tenha ocasião de me referir a elas
+na próxima vez em conexão com o prognóstico.
+
+
+
+
+AULA III.
+
+
+SENHOR VICE-PRESIDENTE E SENHORES,--Nesta palestra de encerramento
+da série, tentarei abordar as aplicações de
+os fatos e considerações que apresentei a vocês sobre os dois
+ocasiões anteriores em que tive a honra de me dirigir a vocês. Confio
+que o que eu então coloquei diante de você provou ser de algum interesse.
+Vamos ver agora se é útil na prática. Por mais que
+etiologia e patologia das doenças e distúrbios do coração
+e artérias na meia-idade e na idade avançada podem merecer estudo como
+questões de história natural, ficaríamos desapontados se pudessem
+não podem ser levados em conta no prognóstico e tratamento. Estes são os
+assuntos que proponho discutir esta noite.
+
+Agora, o prognóstico e o tratamento, para serem racionais e úteis, têm de ser
+com base num diagnóstico tão completo e correto quanto o conhecimento permitir.
+A disposição atual é ficar aquém disto; contentar-se com isso
+com um diagnóstico incompleto. Dizemos que o "coração" do paciente
+está dilatado", que ele tem "degeneração arterial", que há
+"degeneração gordurosa". Mas você se lembrará de que descobrimos que
+A dilatação cardíaca pode estar presente em todos os tipos de doenças cardiovasculares
+degeneração; que as artérias são naturalmente dilatadas e espessadas
+depois da meia-idade, e que nos recusávamos a chamar essas mudanças de mórbidas.
+Claramente, portanto, um diagnóstico puramente anatômico deste tipo
+é insuficiente. Se lhe perguntarem qual é o prognóstico da obesidade
+degeneração do coração, você responde que primeiro deve ser informado
+seja doença sifilítica ou gotosa das artérias coronárias, ou
+tensão, ou alcoolismo, ou envenenamento por fósforo ou anemia é a
+causa disso. Quando você está planejando o tratamento da dilatação de
+o coração você primeiro determina se a dilatação é um resultado
+do estiramento de um coração sadio por enchimento excessivo durante a contração muscular
+esforço, ou do esvaziamento insuficiente de câmaras falhadas com
+paredes degeneradas e frágeis. Obviamente o que devemos determinar
+nestes casos e em todos os casos é a origem do
+doença. O diagnóstico final a ser alcançado para fins práticos
+é o diagnóstico etiológico.
+
+Isso é possível? Nosso conhecimento da natureza, dos personagens e
+o curso dessas afecções cardiovasculares nos permite dizer, depois
+investigando um caso, qual o tipo de alteração patológica
+que constitui a doença, ou em que aspecto a condição fisiológica
+mecanismos estão desordenados? Pode a causa dessas degenerações de
+o coração e as artérias podem ser determinados em cada caso? Como é o
+praticante para prosseguir com isso? Que método pode ser seguido com
+vantagem em fazer um diagnóstico completo de doença cardíaca em idosos
+assuntos?
+
+Um homem de 60 anos nos consulta sobre seu coração. Ele diz que isso causou
+ele tem sido motivo de muita preocupação ultimamente. Mais especificamente, ele descreve
+uma sensação de opressão atrás do esterno sempre que ele exerce
+ele mesmo, e palpitações com consciência de problemas cardíacos irregulares
+ação quando ele vai para a cama. Perguntamos por outros problemas cardíacos familiares
+sintomas, como dor, angina, palpitação, desmaio, tontura,
+e uma sensação de morte iminente. Descobrimos que um ou mais estão presentes
+ocasionalmente, e que aumentaram em número e grau
+nos últimos meses ou anos. Talvez tosse, vômito noturno
+ortopneia e hidropisia podem estar começando a causar problemas. O próximo
+parte da investigação se refere à história pregressa do paciente
+desde a infância. Quais das doenças agudas ele teve?
+Reumatismo agudo, coreia, escarlatina, febre tifoide, difteria e
+a gripe deve ser mencionada individualmente e nas mulheres a natureza
+de qualquer doença puerperal de que possam ter sofrido. Gota,
+gota irregular, cascalho, eczema, dor de cabeça, asma devem ser
+indagado com a mesma minúcia, e assim deve ser a sífilis. Nós
+em seguida, ouça um relato de qualquer acidente que o paciente possa ter sofrido
+com, como um golpe ou uma queda de um cavalo ou de uma carruagem. Isso
+nos leva naturalmente a questioná-lo sobre sua ocupação e modos
+de relaxamento e divertimentos - sejam eles ativos ou sedentários, regulares
+ou irregulares, seus caracteres de outra forma, e seus efeitos diretos,
+incluindo tensão. Mais difícil de obter é uma explicação correta de
+os hábitos do paciente - em relação à alimentação, estimulantes e tabaco,
+e seu modo de vida em geral. Como eu disse na minha primeira palestra,
+esta é uma consulta em que o médico de família tem a oportunidade
+para realizar com muito mais sucesso do que o médico do hospital
+ou consultor. O médico de família conhece há anos o seu
+trabalho e preocupações do paciente cardíaco; pode ser de sua grande alimentação,
+de sua bebida secreta, da história da sífilis em anos anteriores.
+Também é sempre bom perguntar sobre o histórico familiar de gota,
+reumatismo e doenças cardíacas. Uma lista de perguntas como esta parece
+muito mais formidável do que é na realidade. Alguns minutos bastam para
+chegar à verdade. Já temos uma noção bastante clara do que
+tem que lidar com, seja tensão, gota, sífilis, tabaco, um velho
+lesão reumática, ou uma combinação de duas ou mais destas.
+
+Em seguida, procedemos ao exame físico, começando pela medição do pulso.
+e artérias, passando para o coração e estruturas associadas.
+Os caracteres do impulso precordial – particularmente o assento
+da batida do ápice e da força do impulso - estão intimamente (I
+quase poderíamos dizer laboriosamente) investigado. Nunca devemos ceder a
+a tentação de desconsiderar as fraquezas ou a ausência do impulso.
+Como muitos outros sinais negativos, ele tende a ser ignorado. Então o
+a monotonia precordial é mapeada por meio de percussão leve.
+Por fim, a ausculta nos revela a presença ou ausência de
+murmúrios e os caracteres dos sons - na posição e
+posturas reclinadas e, se necessário, após um pequeno esforço. O
+intensidade relativa do primeiro e do segundo sons em diferentes
+partes da precordia são particularmente dignas de nota.
+
+Agora, suponhamos que encontramos um sopro sistólico mitral.
+nos perguntamos se é estrutural ou se é funcional,
+isto é, devido ao relaxamento e dilatação das paredes ventriculares.
+Se estrutural, com qual (se houver) das doenças provocadas no
+A história anterior do homem corresponderia? Muito provavelmente com
+gota ou glicosúria. Assim, tentamos conectar a lesão com
+sua causa, e a causa com seus efeitos, e atingiram o
+diagnóstico definitivo. Assim como outros sopros valvares: por exemplo,
+um sopro diastólico aórtico prova estar relacionado à sífilis. Se
+não havendo sopro audível, naturalmente pensamos em dilatação com
+falha, ou de alargamento por esforço, por doença de Bright, por
+esclerose arterial, por enfisema, por insuficiência ou impureza
+suprimento sanguíneo nas artérias coronárias, devido à inervação desordenada,
+ou de alguma causa mais rara, como pericárdio aderente; e então,
+com essas associações em nossas mentes, revisamos mais uma vez as
+histórico do paciente e geralmente temos sucesso em nosso diagnóstico.
+
+Aqui, deixe-me relatar o significado dos principais sinais e
+sintomas que detalhei para vocês na minha última palestra, considerados em
+a ordem inversa nesta ocasião, algumas das quais são de valor real
+na diferenciação das causas da degeneração cardiovascular. Para
+comece com fatos negativos: um sopro pré-sistólico mitral nunca é
+significativo de uma lesão degenerativa. Em segundo lugar, quando nos encontramos com
+um sopro diastólico aórtico, sozinho ou junto com um sopro aórtico
+sopro sistólico, podemos concluir com segurança que temos que lidar com
+algo mais do que ateroma produzido pela gota regular ou irregular
+e distúrbios metabólicos associados, doenças cardiovasculares
+origem nervosa e coração alcoólico ou tabágico, mesmo que haja
+evidência da presença de um ou mais destes no caso.
+A incompetência aórtica desenvolvida na vida adulta é o resultado de
+sífilis, ou de tensão valvular aguda ou crônica; mas, é claro,
+muitos casos desta lesão ocorrem após os 40 anos
+pode ser atribuída à endocardite juvenil de origem reumática ou outra.
+Sempre uma lesão grave, a insuficiência aórtica por sífilis, ou por
+sífilis e estirpe, é particularmente grave, por ser tão frequente
+associada à doença coronária e consequente infarto do miocárdio
+degeneração - gordurosa ou fibrosa, amolecimento agudo e morte súbita
+falha. Um sopro sistólico básico totalmente desenvolvido, audível ao longo do
+área aórtica e manúbrio e ao longo do curso da carótida,
+é um sinal muito comum de ateroma do arco aórtico e das válvulas
+e grandes vasos associados à gota regular ou irregular,
+diabetes, corpulência e distúrbios nutricionais relacionados. Também é
+um dos sinais físicos das afecções sifilíticas e traumáticas de
+aorta e válvulas aórticas e de endocardite remota. Além disso,
+essas lesões são frequentemente acompanhadas por degenerações semelhantes em
+as artérias coronárias e consequente degeneração miocárdica, que
+o sopro sistólico básico deveria ao menos levantar a suspeita
+disto na mente do observador. Uma sistólica básica mal desenvolvida
+sopro não é incomum no alcoolismo, doença de Bright crônica e
+tensão nervosa, mas é difícil dissociá-la da anemia. Uma
+sopro sistólico totalmente desenvolvido audível na área mitral, quero dizer
+independentemente do vazamento ventrículo-auricular na insuficiência cardíaca,
+é geralmente rastreável à endocardite precoce de doença reumática ou de outra natureza
+origem, raramente a lesão, incluindo a cepa juvenil comum do
+válvulas ou paredes, ou à doença de Graves. Mas em alguns casos
+é inquestionavelmente devido ao ateroma valvular e à esclerose concomitante,
+causada por gota ou outros distúrbios do metabolismo, incluindo a
+efeitos da vida livre; e nesses casos o observador deve
+não desconsiderar a possível associação entre doença coronária e gordura
+degeneração. Se um sopro mitral sistólico se revelar um tanto
+indefinido e afetado pela postura, cúbito e esforço, para variar
+sob observação diária e desaparecer sob tratamento,
+não tem mais valor para nós no diagnóstico diferencial do que isso
+significa relaxamento e fraqueza, ou ação desordenada, do
+ventrículo esquerdo, consequente a qualquer uma das causas reconhecidas de
+insuficiência ou distúrbio do coração, incluindo as diferentes doenças cardíacas
+venenos, excesso de trabalho, anemia, doenças agudas, pobreza e similares, e
+isto seja em um coração previamente sadio ou previamente dilatado ou
+anteriormente sede de doença valvular. Um zumbido acentuado
+segundo som na área aórtica, ou mais extensamente, é de grande
+valor no diagnóstico da tensão arterial e do ateroma aórtico ou
+de ambos, mas está associado a muitas causas diferentes para
+ser de grande utilidade no diagnóstico diferencial. Deve sugerir uma
+busca cuidadosa pela doença de Bright. Ligeira reduplicação da
+o primeiro som é comum sobre o coração tenso na juventude e o coração
+degenerados pelo alcoolismo e distúrbios metabólicos, mas todos
+sabe que não é incomum em uma variedade de outras condições,
+saudável e mórbido. Por outro lado, o _bruit de galop_, ou
+ritmo de galope dos sons cardíacos - duplicação definitiva do primeiro
+som seguido por um segundo som alto, acentuado e vibrante - é
+praticamente patognomônico da doença de Bright e é uma das
+mais valioso, porque um dos sinais físicos mais ameaçadores em
+conexão com o sistema cardiovascular. Um coração de tamanho normal
+com irregularidade, frequência aumentada e pressão sistólica variável
+sopro na região mitral, é característico de intoxicação por tabaco. Um
+coração dilatado em ambos os lados e atuando irregularmente sem sopro,
+é (além da insuficiência cardíaca) sugestivo de esforço no início da vida.
+
+Os sintomas cardíacos tomados individualmente têm menor valor diagnóstico
+do que sinais. Nenhum sintoma é patognomônico. A palpitação é uma condição quase
+fenômeno universal de doenças e distúrbios cardíacos. Desmaios e
+desmaios reais não são incomuns em casos de esforço cardíaco precoce,
+coração gotoso e distúrbios nervosos. Angina com a qual nos encontramos, você
+vai se lembrar, na gota regular e irregular, no coração do tabaco, na tensão
+(especialmente tensão após os 40), e na sífilis e no alcoolismo,
+enquanto a pseudo-angina é extremamente comum em mulheres nervosas: portanto
+A angina tem menos valor diagnóstico do que se poderia esperar.
+Um pulso de alta tensão que encontrei com mais frequência na doença de Bright,
+na estirpe juvenil e nas afecções cardiovasculares do sistema nervoso
+origem; pulso de baixa tensão em conexão com álcool e tabaco
+envenenamento e com tensão senil.
+
+Quando analisamos estes factos, penso que temos o direito de concluir que
+os sinais e sintomas físicos cuidadosamente determinados pelo clínico
+a investigação pode ser empregada com confiança, juntamente com o paciente
+história pessoal anterior e a história de sua doença atual,
+para diferenciar entre si as causas das doenças cardiovasculares
+degeneração em casos individuais. E, ainda, que informam
+nos da sede de pelo menos algumas das lesões, valvulares, parietais
+e vascular. Um pouco de esforço, paciência e observação atenta
+são tudo o que é necessário para chegar a um diagnóstico completo ou funcional.
+Agora podemos abordar os grandes assuntos práticos do prognóstico e
+tratamento com alguma confiança.
+
+
+PROGNÓSTICO.
+
+Começando com o tipo mais simples de distúrbio cardiovascular, vamos
+veja qual é o prognóstico no coração do tabaco. Você terá reunido
+do que eu tinha a dizer sobre este assunto na minha última palestra, e
+na verdade, vocês sabem, como homens de observação e experiência, que é
+comparativamente favorável. Todos os casos que tive oportunidade de analisar
+o relógio funcionou bem, desde que a causa de sua angústia fosse evitada e
+o coração e os vasos estavam saudáveis. Além disso, a melhora
+começa cedo e pode ser rápido e a recuperação completa; mas você
+lembrarei de um paciente, cujo caso lhe detalhei,
+continuou a ter angina alarmante durante seis meses após desistir
+tabaco. A recorrência acompanha a retomada do hábito, mas alguns
+seus devotos conseguem continuar a fumar pouco antes de induzir
+desconforto sério. A menos que um esforço bem-sucedido de reforma seja feito,
+problemas cardíacos podem continuar indefinidamente. Mas mesmo assim não posso
+dizer que vi danos sérios causados ​​apenas pelo tabaco em
+corações sadios, nem esclerose arterial, como já foi afirmado por alguns
+autoridades.
+
+Uma estimativa completamente diferente e muito desfavorável deve ser formada
+da perspectiva de vida no coração do alcoólatra. Naturalmente, uma certa
+proporção de casos de recuperação se a doença for de desenvolvimento recente,
+a condição é descomplicada e o tratamento é realizado fielmente
+fora. Infelizmente, como regra, temos que lidar com o alcoolismo em
+que todas essas condições de sucesso estão faltando. O hábito é
+estabelecido, outros órgãos além do coração estão envolvidos, outros
+doenças que o alcoolismo estão presentes, e o paciente não tem nem
+a inclinação nem a força para seguir nossos conselhos. Cirrose,
+neurite, demência complicam a degeneração cardíaca, ou, mais
+corretamente, complica um ou todos eles. Doença de Bright crônica
+a doença é considerada responsável por uma série de mortes na mortalidade
+retornos que pertencem estritamente ao alcoolismo. Ocasionalmente, o fim
+vem de repente da degeneração gordurosa, ou no curso de alguma
+doença aguda; caso contrário, como vimos, por insuficiência cardíaca lenta
+e hidropisia.
+
+Prognóstico no coração gotoso, incluindo o coração do homem com
+gota, glicosúria e outras formas irregulares da doença, é
+um assunto de considerável dificuldade prática. Na minha última palestra
+Li para vocês um breve relato do caso de um amigo meu
+que teve ataques ocasionais de angina gotosa por 40 anos. E
+certamente uma grande proporção das senhoras idosas de 60 ou 70 anos, que
+todos vocês tiveram como pacientes por anos a fio com problemas cardíacos
+e sopro sistólico na área aórtica, devem sua incapacidade
+à gota, se minhas observações estiverem corretas. A lesão propriamente dita
+a aorta e as válvulas aórticas nesses casos são ateromas, mas a
+o dano é acompanhado de reparação na forma de esclerose, que,
+ao aumentar o volume do sopro, acrescenta irracionalmente
+nossa ansiedade em relação ao caso. É igualmente certo que os pacientes
+pertencentes a esta classe melhoram com o tratamento. Ainda assim, o
+a condição de prisão não pode continuar indefinidamente. Além de
+perigos extrínsecos, particularmente os da doença de Bright,
+trombose e hemorragia, e bronquite, insuficiência cardíaca
+é suscetível de sobrevir e ser fatal desde o mais grave de todos
+causas intrínsecas, nomeadamente, a degeneração coronária. À medida que esta aumenta,
+o miocárdio está cada vez mais empobrecido;
+o vigor contrátil diminui e a dilatação residual das câmaras
+inicia-se com congestão mecânica das vísceras. Queixas de
+“o coração” aumenta, a respiração fica oprimida, o rosto
+assume cada vez mais a aparência característica "cardíaca" e
+hidropisia sobe pelos membros inferiores. Mesmo assim o prognóstico não é
+sem esperança, pois sem dúvida uma certa proporção de casos de hidropisia em
+idosos com coração e vasos degenerados ainda são passíveis de
+tratamento racional. Mas o caso ocasionalmente tem um caráter mais dramático
+rescisão. Como pude ilustrar após minha segunda palestra por
+um espécime do Museu do Hospital Charing Cross, uma filial do
+uma das artérias coronárias que foi estreitada pelo ateroma por
+por tempo indeterminado, com consequente fraqueza cardíaca e
+desconforto, pode a qualquer momento tornar-se trombosado rapidamente, aparentemente
+em consequência de alguma depressão passageira ou outra situação desfavorável
+influência, assim como na trombose de vasos cerebrais degenerados.
+A angina fatal é o resultado. Este é um ponto de grande importância prática
+importância - que a morte súbita ocorrerá em indivíduos idosos com gota, não
+da lesão da qual se origina um sopro sistólico básico ou apical
+evidências e que nos causam preocupação, mas também por doenças coronárias associadas
+ateroma, do qual provavelmente nunca suspeitamos; na verdade, pode ocorrer
+naqueles assuntos sem nenhum murmúrio que atraia nossa atenção
+e excitar nossos medos.
+
+Ainda mais desfavorável deve ser o prognóstico nas lesões sifilíticas
+do coração e dos vasos. De 18 dos meus casos em que o resultado foi
+conhecido, apenas metade melhorou com o tratamento e 20 por cento.
+eles morreram poucos anos depois (alguns até em poucas semanas) da
+descoberta de sua doença. A insuficiência cardíaca é responsável pela maior parte
+mortes, quer se desenvolvam gradualmente com hidropisia, o que se revela
+intratável; ou progredindo rapidamente com grande sofrimento cardíaco,
+incluindo angina; ou ocorrendo repentinamente, como costuma acontecer. Aneurisma
+aparece em outros casos, dos quais o paciente morre,
+ou ele é levado pela paralisia geral ou pela doença de Bright.
+
+Que perspectiva temos para oferecer ao homem que esforçou o
+paredes do seu coração pelo esforço muscular? Acredito que se pode falar
+com alguma confiança neste assunto. O paciente de meia-idade que
+esticou demais suas paredes cardíacas como um jovem pode ser consolado com
+a opinião de que a condição não é fatal. A média
+a duração de 11 casos desta ordem que descobri ter sido de 30 anos
+quando eles ficaram sob minha observação; a duração mínima foi de nove
+anos, sendo o máximo de 50 anos. Este último caso merece atenção especial
+menção. O paciente foi visto pela primeira vez por mim por insuficiência cardíaca
+com hidropisia cardíaca, consequente a um novo colapso após esforço
+durante um feriado; e é muito encorajador observar que
+a compensação foi restaurada pelo tratamento, e que agora, 12 meses
+depois desse evento, ele não está apenas vivo, mas capaz de continuar a vida leve
+trabalho profissional. Este caso também ilustra o que eu disse a você
+respeitando o curso do afeto e a perspectiva diante do
+pacientes, em tensão de longa data - que há uma responsabilidade contínua
+ao novo constrangimento do coração durante o esforço, no qual eles
+parecem ter uma inclinação duradoura para se entregar. Se acontecerem
+seguir uma ocupação que implique esforço ocasional, ou esforço
+com entusiasmo e preocupação (se acontecer, digamos, de estarem ocupados
+praticantes de medicina), sofrem da mesma forma com os ataques
+de taquicardia, palpitações angustiantes e ansiedade. Na verdade, como eu
+apontado na minha segunda palestra, eles ficam facilmente chateados com outros
+influências além destas, incluindo indigestão, às quais a vítima
+de pressa e preocupação é particularmente propenso; e eles devem estar preparados
+ter que levar uma vida de relativa temperança e abnegação.
+
+Nem é a tensão do coração pela primeira vez depois dos 40 por qualquer
+significa tão grave quanto se poderia esperar. Claro, muscular repentino
+esforço ocasionalmente é responsável pela morte súbita em idosos. Mas
+é surpreendente como, em tais circunstâncias, pessoas tão idosas o fazem
+recuperar-se de condições de extrema angústia com duração aguda de
+meia hora - por exemplo, depois de correr com uma sacola pesada para pegar
+um trem. A maioria dos meus pacientes descreveu sua condição como
+melhorou depois de um tempo, mas outros recaíram; e no geral o
+o prognóstico correto é que eles devem esperar permanecer variados
+incapacitado - isto é, sujeito a sofrimento precordial e dispneia
+esforço mais do que moderado, ou quando submetido a circunstâncias de
+outros tipos que sobrecarregam o coração.
+
+Distúrbio cardiovascular e doença relacionada à tensão nervosa
+puro e simples é passível de tratamento por completo e prolongado
+descanso ou relaxamento na maioria dos casos. Ainda assim, a morte pode
+ocorrer devido a insuficiência cardíaca súbita; ou o aconselhamento deve ser negligenciado
+ou logo esquecidos, como acontece tão frequentemente nestes assuntos,
+a alta tensão arterial e a degeneração vascular também
+frequentemente terminam em lesões cerebrais, com ou sem doença de Bright.
+a própria doença crônica de Bright e as doenças cardiovasculares associadas
+mudanças em seus aspectos prognósticos Não preciso falar, exceto para dizer
+que, juntamente com a sífilis, é de longe a mais desesperadora de todas
+afeições.
+
+Ao tentar prever a vida de um homem que é objeto de
+degeneração cardiovascular na meia-idade ou avançada, devemos
+não esquecer a possibilidade de intercorrência de doença aguda.
+Aqui está um assunto amplo para nós, homens práticos - um assunto muito amplo
+e importante para discussão aqui: o efeito, por exemplo, da
+existência de dilatação do coração e de um coração irregular e espessado
+pulso sobre o prognóstico da gripe, ou, digamos, sobre as chances
+de um problema bem-sucedido após a operação. Muito naturalmente, doentio
+vasos e um murmúrio sobre a precordia pesam fortemente contra o
+perspectiva de recuperação de pneumonia, por exemplo; e ainda com que frequência
+não encontramos um paciente de 70 anos com um ou ambos esses sintomas perturbadores
+condições passam com segurança por tal doença! Aqui, novamente, eu
+acredito que é em grande medida a verdadeira natureza do antigo
+doença, não os sinais físicos, como irregularidade do pulso ou
+sopro mitral, que deve ser levado em consideração. Um coração dilatado
+e uma artéria radial espessada pela atividade prolongada e nada mais
+será suficiente para transportar um homem com segurança através de um ataque de gripe
+pneumonia; mas que chance há para o alcoólatra crônico sob
+circunstâncias semelhantes, ou para o assunto da doença crônica de Bright
+doença?
+
+Tanto para o prognóstico geral em cada um desses tipos de
+distúrbio e doença cardiovascular. Mas é o particular
+prognóstico que temos que tentar estimar - isto é, o
+prognóstico no paciente individual conforme ele se apresenta diante de nós e
+nos faz aquela pergunta difícil: "Qual é a minha perspectiva de vida e
+"saúde"? Diagnosticamos, se possível, a natureza precisa de sua condição cardíaca
+afeição e aplicar da melhor forma possível as conclusões
+que acabei de submeter a você e, ao mesmo tempo, estimamos
+tão corretamente quanto possível a condição pessoal do homem, seu caráter e
+disposição. Pois, tudo o que pode ser determinado com respeito à
+paciente médio por meio de uma análise de um grande número desses casos, o
+o futuro individual do paciente em doenças cardíacas de todos os tipos,
+degenerações incluídas, depende muito dos cuidados que ele toma
+de si mesmo. Isso nos leva a outra consideração. No entanto
+sinceramente podemos tentar estimar o prognóstico em uma base estritamente
+sistema racional - isto é, baseando-o em uma avaliação precisa e completa
+diagnóstico - não podemos negar que quando o paciente individual está diante
+nós somos influenciados diretamente por alguns dos sintomas e sinais,
+sem nos perguntarmos qual o seu respectivo significado patológico
+pode ser. Bradicardia verdadeira, a história de um ataque inconfundível de
+angina de peito, sopro diastólico aórtico alto, sopro de
+galop_--isso nos causa grande preocupação imediatamente antes de termos
+hora de traduzi-los para a linguagem da anatomia mórbida. Muito
+naturalmente tentamos levar esse método longe demais e chegar a um
+prognóstico, por assim dizer, por um atalho, anexando um prognóstico
+valor para cada fenômeno clínico - palpitação, precordial
+opressão, desmaio, sensações letais e assim por diante. Agora, bastante
+independentemente do carácter não científico deste processo,
+é de pouca utilidade prática. Mesmo quando ouvimos uma
+relato de um homem de meia-idade sobre um ataque de angina de peito,
+o que podemos dizer a ele sobre sua perspectiva de vida até que tenhamos aprendido
+se ele é culpado de fumar ou beber em excesso, se ele
+ser gotoso, se ele tem forçado o coração ultimamente ou não? O que
+Eu considero isso realmente valioso em termos de prognóstico, no sentido de um
+observação clínica simples, é a determinação da progressão
+sintomas e sinais. Um homem de 72 anos reclama de opressão por
+região esternal inferior sempre que sobe uma colina. Doze meses
+depois ele vem e nos conta que teve um ataque de dor intensa
+na parte superior do peito durante a noite. Mais um ano se passa,
+e ele volta a dizer que agora não pode ter pressa na rua
+sem sofrimento precordial; e nota-se que a segunda aorta
+o som, antes denso em caráter, está ligeiramente soprado.
+quarto ano de observação do paciente, tendo tido gripe em
+o intervalo, queixa-se de um sopro autoaudível e de real
+dor no peito; agora há uma diástole aórtica totalmente desenvolvida
+sopro, e seus tornozelos incham ocasionalmente. O prognóstico era muito
+fácil neste caso, sem investigação da causa ou do
+lesão. Poucos meses depois ocorreu a angina verdadeira e muito em breve
+o paciente morreu após vinte e quatro horas de sofrimento severo.
+
+
+TRATAMENTO.
+
+Não é a menor vantagem do ponto de vista etiológico da nossa
+levantamento dos distúrbios e doenças do coração e das artérias
+na vida média e avançada é o racional e também o esperançoso
+linha de tratamento que nos permite seguir. No geral,
+podemos controlar influências mórbidas mais facilmente do que podemos alterá-las
+processos patológicos; e (o que é de igual ou até maior
+importância) o conhecimento das causas das doenças muitas vezes nos permite
+prevenir o que não poderíamos curar. Apesar de tudo, a etiologia
+de doenças cardíacas nos fornece apenas um conjunto de muitas informações inestimáveis
+indicações para o tratamento. Devemos ter também uma imagem mental clara
+da anatomia patológica das condições que tentaríamos
+modificar - por exemplo, os danos causados ​​pela gota na valva mitral
+válvulas e arco aórtico, pela sífilis nas artérias coronárias, por
+tensão nas paredes das diferentes câmaras cardíacas. Não menos
+é necessário que o praticante leve em consideração, antes
+proceder à prescrição, as características clínicas e o curso da
+o caso em questão. Como já disse mais de uma vez, uma grande
+proporção da angústia, das deficiências e dos perigos que acompanham
+degeneração do coração são devidas a alguma doença adicional ou extrínseca
+perturbação - distensão do estômago, constipação, preocupação ou
+esforço - que por si só, e não a condição patológica, exige
+atenção terapêutica.
+
+Parece, então, que toda a história natural das doenças
+e distúrbios do coração - e, devo acrescentar, de cada indivíduo
+caso--deve ser estudado, e o valor de suas diferentes partes
+estimado de forma absoluta e relativa, antes que o tratamento racional possa
+ser ordenado. Quão diferente será o tratamento, se ordenado com base nestes
+princípios, desde o procedimento rotineiro de prescrever um pouco
+estricnina e digitalis para um homem com opressão ao esforço e uma
+sopro sistólico na base do coração!
+
+Comecemos esta parte do nosso assunto com uma breve consideração sobre
+tratamento preventivo, baseado no conhecimento da causa em ação.
+
+Agora, a primeira coisa que nos impressiona sobre esses aspectos desfavoráveis
+influências é o número delas que poderiam ser evitadas ou controladas
+com sucesso pelo simples exercício da vontade. Os efeitos tóxicos de
+tabaco, álcool, chá, etc. são devidos ao abuso, à falta de consideração ou
+ignorância, ou por indisposição e não por incapacidade de exercer
+autocontrole. O abuso do tabaco parece criar tanto
+desconforto ou mesmo alarme, de um tipo que o sofredor não pode deixar de sentir
+para se referir à sua causa, que o remédio é efetuado automaticamente,
+e nenhum grande dano é causado. Raramente precisamos fazer mais do que confirmar
+as suspeitas do paciente nesse sentido e recomendar tratamento temporário
+abstinência do cigarro ou cachimbo e maior cuidado na
+futuro. Com o álcool é diferente. O alcoolismo cresce
+aquilo de que se alimenta, e os nossos melhores esforços são muitas vezes em vão. O presente
+dificilmente é ocasião para nos determos neste assunto - o dever do
+profissão aos seus pacientes e amigos em relação ao abuso de
+álcool. Ainda assim, não deveria sentir que havia descarregado da melhor maneira possível
+da minha capacidade, ou em plena conformidade com as minhas fortes convicções,
+os deveres do cargo honroso que, por seu favor, eu
+ocupar o cargo de Professor Lettsomiano, se eu não o incentivasse a exercer
+mais plenamente do que é exercido atualmente sua influência pessoal para
+desencorajar o consumo habitual de bebidas alcoólicas. Acredito (porque descobri) que
+muitos homens que não estão abertos a argumentos de natureza abstrata, podem
+ser levado a parar e reconsiderar seu modo de vida por ter
+uma apresentação concreta de sua condição e seus resultados colocados
+diante deles — em inglês simples, estando completamente assustados.
+“Doença cardíaca” é um argumento poderoso para empregar com pessoas de
+esta classe, e é uma que também é justificada pelas questões em
+estaca. Da sífilis e dos estragos que ela causa no coração, na aorta e
+o sistema vascular em geral, mas particularmente no sistema nervoso
+sistema, não preciso falar. A profissão, como eu disse, não é
+mas suficientemente atento a isso: o que se pode esperar do público?
+fazer em termos de prevenção? Gota, corpulência e doenças metabólicas aliadas
+distúrbios, essas fontes frutíferas de distúrbios cardiovasculares e
+ateroma, pedem temperança não apenas na bebida, mas também na comida.
+Enquanto a questão continua a ser discutida, qual é o
+os artigos alimentares devem ser evitados por indivíduos gotosos, vamos
+todos se unem para oferecer-lhes um conselho cujo valor
+não pode haver dúvidas: comam o que comerem, que comam pouco. Moderação
+em quantidade é, falando de modo geral, muito mais importante do que evitar
+os antecedentes teóricos do ácido úrico, seja carne ou leite,
+ou açúcar. Deixe-me citar o que o Dr. George Balfour, que escreveu tanto
+muito e tão bem sobre a doença do coração e seu tratamento, diz em
+este assunto:--"Não conheço nenhuma sociedade que inculque, por preceito ou
+por exemplo, a temperança em relação à comida; no entanto, não há nada que envelheça
+homem ou mulher tão rapidamente, não há nada que encurte tanto a vida
+certamente, e não há nada que amargue os últimos dias de
+vida tanto quanto o excesso de comida. Para aqueles que podem pagar
+assim, transgredir - para os ricos - o excesso de comida é muito
+ameaça mais séria à saúde e à vida do que o excesso de bebida, e
+é especialmente assim no que diz respeito às afeições senis do coração,
+alguns dos quais foram claramente reconhecidos como devendo a sua origem
+ao excesso de indulgência, enquanto todos são claramente agravados por isso."[15]
+Com a observância desta regra dietética simples e saudável deve
+atenção à livre eliminação por todos os canais excretores, e
+a garantia de exercício suficiente e aproveitamento do ar fresco.
+Se quisermos gravar esta consideração em nossas próprias mentes e dar
+efeito em nossa prática, vamos lembrar por um momento o
+número de casos que lhe apresentei de ateroma do
+aorta em mulheres robustas e matronais de hábitos sedentários e luxuosos, em
+nos quais, de fato, essa degeneração é tão comum quanto nos homens.
+
+  [15] GW Balfour, 'O Coração Senil', p. 236, 1894.
+
+Já falei muito sobre o assunto da tensão cardíaca que
+é desnecessário e desinteressante retornar ao
+questão da prevenção disso. Vimos com que frequência isso ocorre
+no sujeito de meia-idade ou idoso por tentativas mal pensadas de
+atletismo. Moderação e respeito pela idade são os verdadeiros
+guias para o prazer útil do exercício físico após os 40. Quanto ao
+efeitos nocivos das influências nervosas na circulação, além
+à ansiedade, ao cuidado, ao infortúnio e à tristeza, que geralmente estão além
+nosso controle, tensão nervosa, ao contrário do simples esforço
+trabalho intelectual, muitas vezes deve ser relaxado se houver dano cardiovascular
+deve ser evitado. Refiro-me aos casos de pessoas em posições de
+grande responsabilidade com tarefas pesadas, complexas e prolongadas, que eles
+não conseguir ultrapassar sem exaustão consequente à alta pressão e
+excitação.
+
+       * * * * *
+
+Eu não teria me demorado tanto nas medidas calculadas para
+evitar a degeneração do coração, se não fosse necessário
+empregado com igual rigor e perseverança no tratamento
+da doença cardiovascular quando ela já está estabelecida e nossa
+procura-se assistência com ansiedade. As indicações etiológicas têm
+ainda deve ser respeitado fielmente; não preciso me alongar sobre isso. O
+A próxima pergunta é: O que pode ser feito para as alterações patológicas
+forjado nas artérias, nas válvulas e nas paredes do coração? Em
+lesões sifilíticas não hesitamos em dizer que o iodeto de potássio
+deve ser administrado livremente: é um remédio específico de grande valor.
+O processo ateromatoso pode ser influenciado com igual ou com qualquer
+sucesso? Depende da toxemia e da anemia; a indicação óbvia é
+para purificar e enriquecer o sangue. Isto, pelo menos no que diz respeito à gota,
+glicosúria e corpulência, como acabamos de ver, devem ser efetuadas por
+uma reforma completa em todos os setores da higiene pessoal. Arsênico
+e doses moderadas de iodetos, combinadas com um excesso de álcalis,
+são calculados para promover o mesmo fim. O Dr. Mott demonstrou que
+ateroma, seja de válvulas ou de vasos, pode ser rastreado em muitos
+casos à doença de _vasa cordis_ e _vasa vasorum_. Esse
+nos leva um passo adiante em nossa busca por indicações, mas a
+A conclusão prática permanece: a nutrição saudável do
+artérias menores devem ser restauradas pela atenção ao sangue e
+o uso de remédios específicos.
+
+Tanto para lesões valvulares e vasculares. Resta ser
+discutiu o cumprimento da indicação maior para tratamento:
+aquele que dirige e governa o emprego dos mais
+importante e bem-sucedida de todas as medidas compreendidas na cardiologia
+terapêutica. Trata-se do estabelecimento e manutenção de
+compensação. A nutrição e a atividade do miocárdio podem ser
+aumentada e sustentada por meio de estimulantes cardíacos específicos
+e tônicos, como estricnina, amônia e o grupo digital de
+medicamentos; por hematínicos, estomacais e laxantes para proporcionar uma alimentação abundante
+fornecimento de sangue saudável; assegurando influências nervosas saudáveis,
+uma das condições de hipertrofia; e pelo emprego do
+medidas não medicinais agora tão amplamente utilizadas para aumentar a
+vigor e beneficia o metabolismo das paredes cardíacas, particularmente
+exercícios e banhos ativos e passivos. Este é um abrangente
+declaração das linhas de tratamento calculadas para beneficiar mais ou
+menos todos os tipos de degeneração cardíaca que tive ocasião de sofrer
+para notar. Das mudanças patológicas individuais e do racional
+tratamento indicado para cada um sob este ponto de vista, vou me referir
+a apenas três que servirão para ilustrar as considerações
+que deve nos orientar na prática.
+
+No caso de gota regular ou irregular, atenção à causa,
+isto é, ao metabolismo desordenado do corpo como um todo e de
+as paredes cardíacas e arteriais em particular, promove, como já vimos
+visto, as condições reconhecidas de compensação: a etiológica
+e as indicações patológicas são aqui praticamente idênticas.
+respeito ao exercício em detalhes, caminhada suave no nível deve
+ser ordenado para começar, isto é, exercício que não produza dor
+ou opressão. O paciente deveria abandonar seu trabalho regular por
+um tempo e aproveitar ao máximo o tempo livre para
+aproveite os benefícios de uma vida saudável ao ar livre. Muito
+em breve ele poderá andar a cavalo, jogar golfe, atirar e pedalar lentamente.
+Um curso de tratamento em um dos melhores spas nativos ou de
+os balneários continentais às vezes fazem um novo homem
+sofredor de coração gotoso. O tratamento de Nauheim, seja tomado
+lá ou na Inglaterra, também pode fazer um bem real. Mas não deve ser
+empregados indiscriminadamente, como tantas vezes acontece. A profissão
+deveria lembrar (o que o público não pode e provavelmente nunca irá
+venha a entender) que o diagnóstico patológico deve preceder
+tratamento racional, que consiste na aplicação de um remédio adequado
+ao caso individual que temos diante de nós, não em adaptar cada caso a uma
+sistema especializado ou panaceia — a essência do charlatanismo.
+
+No planejamento do tratamento do coração dilatado do
+homem de meia idade que teve sua circulação prejudicada na juventude e vem
+para nós reclamando de uma recorrência de sofrimento precordial e
+falta de ar, temos que lembrar que há sobra no
+paredes cardíacas, mas uma parte dessa reserva de elasticidade e que
+reserva de energia muscular que normalmente possuem e requerem
+para que possam enfrentar o estresse do esforço. Deixe-me lembrá-lo de
+um momento que, das disposições que o coração possui contra
+tal emergência ou outra demanda repentina ou grave sobre sua capacidade
+e atividade, uma é a extensibilidade de seus tecidos, em virtude de
+que acomoda em si o aumento considerável da
+carga de sangue que é despejada nele pelos músculos ativos e
+os resíduos que se acumulam nele devido à descarga insuficiente
+diante do aumento da resistência periférica. As paredes cedem
+antes do aumento da pressão interna atuando sobre ambos _a
+tergo_ e _a fronte_; o coração está distendido, com uma passagem
+sensação de desconforto, dispneia e lividez; e quando a musculatura
+o esforço é encerrado a elasticidade correspondente à extensibilidade de
+as paredes atualmente garantem o retorno das câmaras ao seu estado original
+dimensões originais. Ao mesmo tempo, uma segunda disposição entra em vigor
+operação. O aumento da atividade muscular é desenvolvido de forma precisa
+proporção ao aumento da pressão interna e assegura uma pressão suficiente
+saída do coração. Isso, repito, é o que ocorre no som
+coração. Agora, na antiga extensibilidade da tensão parietal e na reserva de
+a capacidade das câmaras que assegura está seriamente esgotada;
+enquanto a função muscular só é mantida por meio de
+hipertrofia, para a qual há necessariamente um limite. Nestes casos
+de tensão é impossível reduzir a dilatação original - isto é
+é permanente. Mas podemos e devemos ser capazes de reduzir ainda mais
+dilatação, se houver, que tenha sido produzida em conexão com recente
+falha de nutrição e novo constrangimento. Portanto, enquanto nós
+promover a nutrição das estruturas elásticas e musculares do
+miocárdio nos princípios gerais que acabei de estabelecer,
+devemos ser claramente parcimoniosos em nossas exigências sobre eles. Tudo
+o esforço de aproximação deve ser proibido imediatamente e por um período suficiente
+tempo para descansar e revigorar os tecidos cardíacos; enquanto o
+nitritos ou pequenas doses de ópio também darão alívio e restaurarão
+confiança em ataques de palpitações e ansiedade. "Exercício, mas
+não esforço", será a regra geral a seguir, pelo menos até
+ficou provado que é possível fazer um esforço maior com a segurança e
+vantagem real. Mas se o constrangimento precordial for o resultado
+da tentativa, ou do trabalho profissional ordinário, como ocasionalmente
+acontece, será necessário um descanso adicional, ou seja, um descanso de horas
+ou dias, de acordo com a gravidade dos sintomas. Eu já
+mencionei a você que pacientes de meia-idade com esforço cardíaco,
+datando de sua juventude, ocasionalmente quebram em seu trabalho por
+meses ou mesmo anos. Em tal caso, uma mudança completa de ar
+e a cena deve ser combinada com o repouso como método de tratamento.
+uma longa viagem pode ser inestimável, ou uma viagem ao exterior de uma maneira fácil e
+tipo interessante. Eles não apenas descansam o coração, mas também desviam a atenção
+mente e remover o nervosismo curioso ou a perda de coragem que, como
+Eu disse, é desenvolvido ocasionalmente nestes assuntos, anteriormente
+tão vigoroso e confiante.
+
+Compare com esta linha de tratamento aquela que é indicada na fase aguda
+tensão cardíaca após os 40. O problema aqui não é como lidar com
+um coração cronicamente dilatado e hipertrofiado, mas com um coração
+que acabou de ceder durante o esforço, principalmente em consequência de
+o comprometimento nutricional de suas paredes. Não é simplesmente tensão
+de um coração que começava a ser nutrido de forma um tanto precária
+como resultado natural da idade; a probabilidade é que o coração
+era na verdade gotoso no sentido amplo do termo, que
+é, irritado pelo ácido úrico e envergonhado pela flatulência, ambos
+mecanicamente e reflexivamente; e, de fato, possivelmente foi danificado
+pelo processo ateromatoso. O repouso é essencial no início do
+tratamento deste tipo de caso também; na verdade, é automaticamente
+garantido pela angústia que acompanha as tentativas de movimento.
+Mas o descanso não deve ser levado longe demais, ou seja, não deve ser
+de maior grau ou duração do que o absolutamente necessário
+indicado pelos sintomas e sinais, para não agravar o estado
+de desnutrição parietal e promover gota fresca. Ao mesmo tempo
+a dieta deve ser controlada de forma rigorosa ou mesmo severa nas linhas
+que eu deitei para a gota, para evitar a superalimentação que acompanha
+O descanso como uma rotina irrefletida deve ter o mesmo
+efeitos desagradáveis. Um curso de tratamento em algum dos bons lares
+ou spas continentais, com precauções especiais, são claramente úteis
+na cepa senil, e os métodos de Nauheim beneficiaram mais de
+um caso do tipo na minha experiência, o grau de dilatação
+diminuindo enquanto o vigor do coração aumentava. Ao mesmo tempo
+tônicos cardíacos de tipo medicinal são administrados criteriosamente.
+
+Estou prestes a passar do assunto da nutrição de
+o miocárdio, quando me ocorre que alguns de vocês podem muito
+naturalmente me perguntam: E quanto à degeneração gordurosa e o tratamento
+disso? Esta é uma questão particularmente interessante para mim. Eu não tenho
+insistiu na degeneração gordurosa do coração nessas palestras, e ainda assim
+Já mencionei isso várias vezes. Já disse que é um resultado
+de alcoolismo, de ateroma gotoso das coronárias, de sifilítico
+arterite na mesma área, da doença de Bright, de anemia profunda
+e de envenenamento por fósforo; e acredito que pode resultar de
+tensão nervosa grave de caráter perturbador e deprimente; e
+que em relação a cada uma dessas causas deve ser considerado
+e tratados de forma diferente. Nada poderia trazer mais plenamente à mente
+nos a importância, na verdade a necessidade, de prosseguir na prática a
+linha de investigação, prognóstico e tratamento que defendi em
+estas palestras - a etiológica. Deixe-me pedir-lhe também que ouça
+a uma confissão de uma das maiores autoridades em doenças cardíacas
+neste país. "É absolutamente impossível", diz o Dr. George
+Balfour, “para diagnosticar a degeneração gordurosa do coração; podemos
+supor sua existência, mas só podemos ter certeza de sua presença
+quando o vemos _post mortem_"; e ele cita Fraentzel de Berlim em
+apoio à sua declaração.[16] Deve ter ocorrido a muitos de vocês,
+como me ocorreu, quão raramente diagnosticamos degeneração gordurosa
+do coração até depois da morte súbita. Como podemos esperar que façamos
+então, se confiarmos apenas nos sinais e sintomas e ignorarmos o que
+é a chave para o diagnóstico - a descoberta da causa que está em
+trabalhar?
+
+  [16] Balfour, _op. cit._, pág. 249.
+
+Agora esbocei de forma muito ampla o tratamento racional destes
+distúrbios e doenças, na medida em que o seu objetivo é prevenir a
+ocorrência ou a extensão dos mesmos, e promover a compensação de
+as deficiências que produzem. Resta-me observar,
+também muito brevemente, o manejo das degenerações cardiovasculares
+quando o coração falha, ou quando parece falhar, e angústia e
+perigo exigem atenção mais direta e imediata. Eu disse
+"quando o coração parece falhar" de propósito definido. Estou ansioso para
+dirija sua atenção, mesmo que seja por um momento, para o fato de que
+em muitos casos onde opressão precordial, dor, palpitações
+e desmaios, com pulso pequeno e irregular frequente, são significativos
+de perturbação grave da ação do coração, não há
+insuficiência do miocárdio no sentido próprio do termo, mas apenas
+constrangimento de caráter temporário. Não conclua disto
+que considero a perturbação do coração como algo de pouca importância. Eu
+chamaram isso de sério, pois de fato o paciente pode morrer disso.
+O que desejo manter é que na degeneração cardíaca de qualquer
+tipo, na dilatação cardíaca crônica e no coração dilatado de
+Doença de Bright e enfisema, assim como na valvopatia comum
+doença, ataques de angústia, alarmantes tanto para o paciente quanto para o médico,
+ocorrem frequentemente e não exigem nada mais em termos de tratamento do que
+atenção a alguma influência intercorrente - uma refeição indigesta,
+intestinos carregados, um choque nervoso, um esforço irrefletido, uma passagem
+dificuldades ou tensão nervosa. Digitalis e seus aliados, estricnina,
+álcool, nitritos, iodetos e o resto estão fora de lugar em tais
+um evento. Repouso completo na cama, uma poção carminativa, calomelano e
+purgantes salinos, dieta poupadora e altamente digerível, tranquilidade e
+um pouco de tempo são meios suficientes de tratamento.
+
+Quando ocorre uma falha verdadeira, manifestada pelos fenômenos familiares de
+dilatação residual do coração, congestão mecânica e hidropisia,
+um conjunto diferente de medidas é exigido. Agora é a hora de atender
+com rapidez, energia e integralidade para o cumprimento da
+três grandes indicações terapêuticas para o tratamento da doença cardíaca
+falha: reduzir a resistência periférica; aumentar o vigor
+da contração ventricular e reabilitar a hipertrofia; e
+remover atrasos de trabalho na forma de sangue residual no coração
+câmaras, congestão mecânica das veias e vísceras e hidropisia
+dos tegumentos e sacos serosos. Repouso corporal; uma luz, sólido
+dieta e uma dose certa de álcool, se necessário; ativo
+purgação com mercuriais, salinas e jalape; e a exposição de
+doses suficientemente grandes de digitalis ou de um dos seus congéneres, em
+combinação com solução salina e outros diuréticos - estes são os meios
+calculado para atingir os objetos desejados. Você não esperará
+para que eu entre em muitos detalhes do tratamento da doença cardíaca
+fracasso. Não é diferente em nenhum aspecto importante no homem
+de meia idade ou idade avançada com degeneração cardíaca do que
+é um caso comum de doença valvar crônica. Apenas em alguns
+pontos em que desejo me deter. Primeiro, que não devemos ter medo de
+purgar esses pacientes, se necessário, todas as manhãs. Em segundo lugar, que
+quando o apetite diminui e ocorre flatulência, em vez de respingos,
+pílula azul ou uma dose de calomelano devem ser administradas e sólidos leves
+perseverou com. Terceiro, que a digital deve ser dada livremente, a
+dose da tintura, por exemplo, sendo elevada para 15 ou mesmo 20
+mínimos a cada quatro horas, se doses menores, como 7½ ou 10
+mínimos, falham. Sem dúvida, há uma disposição por parte de
+alguns praticantes param ou refazem seus passos na dosagem de
+esta droga inestimável, alarmado pela irregularidade, frequência e
+pequenez do pulso. Todas essas características do pulso exigem
+mais digital, não por menos. A este respeito, permitam-me também dizer
+que a evidência mais pronta e precisa, porque mensurável, de
+a ação da digital na insuficiência cardíaca é estranhamente desconsiderada
+na prática comum--quero dizer o volume da secreção renal.
+Podemos estar em dificuldades e podemos divergir uns dos outros quanto a
+a tensão do pulso do paciente e o uso de contínua ou
+modificando o tratamento digital, quando tudo o que temos a fazer é
+para determinar o grau exato de diurese. Quarto, que a diurese noturna
+inquietação e insônia devem ser enfrentadas sem hesitação com
+permissão para passar a noite em uma poltrona ao lado da cama.
+Quinto, que, de acordo com minha experiência, a acupuntura e a drenagem
+têm sucesso perfeito nestes casos senis com hidropisia, até 10
+litros ou mais de soro escapando no decorrer de 24 horas, para o
+alívio completo e muitas vezes duradouro da circulação.
+
+E agora devo encerrar estas palestras. Ao fazê-lo, sinto
+que não tenho apenas que agradecer a você, Senhor, e aos membros da
+Sociedade Médica e nossos visitantes pelo favor com que me
+foram recebidas e a paciência com que vocês ouviram
+mim, mas ao mesmo tempo pedir desculpas pelos muitos defeitos, ambos
+na matéria e na forma, do que apresentei a vocês. É um
+circunstância afortunada para mim que, embora o assunto fosse tão amplo
+e tão difícil, o modo de tratamento comumente associado
+com as Palestras Lettsomianas e sua gentil paciência permitiram
+para que eu possa esconder minhas deficiências pela livre seleção de pessoas menos severas
+tópicos científicos e o emprego de um estilo fácil. Ao mesmo tempo
+tempo, posso reivindicar um pouco de sua consideração favorável para
+o aspecto em que considerei os distúrbios e doenças de
+o coração e as artérias na meia-idade e na velhice? Eu deveria estar
+satisfeito com os resultados dos meus esforços nesta ocasião, seja qual for
+pode ser pensado em sua forma, se eu consegui convencê-lo
+da vantagem prática de considerar essas reclamações do
+lado de suas causas, bem como de sua anatomia patológica.
+
+HARRISON AND SONS, Impressores Ordinários de Sua Majestade, St. Martin's
+Faixa.
+
+
+
+
+ÍNDICE.
+
+  Doença aguda e degeneração cardiovascular; 39
+
+  Álcool e doenças cardíacas; 9, 18
+
+  Alcoolismo, Coração em, Curso de; 20
+
+  Alcoolismo, Coração em, Patologia de; 3, 19, 20
+
+  Alcoolismo, Coração em, Prognóstico de; 36
+
+  Alcoolismo, Coração em, Sintomas e sinais de; 13
+
+  Alcoolismo, Coração em, Tratamento de; 42
+
+  Angina de peito; 17, 21, 24
+
+  Angina de peito, falsa; 35
+
+  Angina de peito, Prognóstico de; 40
+
+  Angina de peito, Significado de; 35
+
+  Artérias, As, de 20 a 45; 3
+
+  Artérias, As, de 45 a 65; 3, 4
+
+  Artérias, As, de 65 a 75; 4
+
+  Artérias, Degeneração e Gota; 7
+
+  Artérias, Doenças de, depois dos 40, causas de; 6
+
+  Artérias, Solidez de, após 40; 5
+
+  Ateroma e Gota; 7
+
+  Ateroma, Tratamento de; 44
+
+
+  Beneke, Professor, sobre as artérias normais após os 40; 3
+
+  Beneke, Professor, sobre o coração normal após os 40; 3
+
+  Doença de Bright e doença cardiovascular; 11, 29
+
+  Sopro de galop; 35
+
+
+  Causas de doenças cardiovasculares; 9
+
+  Café e distúrbios cardíacos; 9
+
+  Compensação, Manutenção de; 44
+
+  Ciclismo e esforço cardíaco; 6
+
+
+  Diabetes e doenças cardiovasculares; 10
+
+  Diagnóstico diferencial de doenças cardiovasculares; 3
+
+
+  Enfisema e doença cardiovascular; 11
+
+  Exercício, abuso e doença cardiovascular; 8, 26
+
+  Exercício, depois dos 40, Usos de; 45
+
+
+  Insuficiência Cardíaca, Tratamento de; 48
+
+  Insuficiência Cardíaca, com Digitalis; 49
+
+  Insuficiência Cardíaca, com Drenagem; 49
+
+  Insuficiência Cardíaca, com Purgantes; 49
+
+  Desmaio, significado de; 35
+
+  Degeneração gordurosa, Diagnóstico de; 47
+
+  Degeneração gordurosa, Tratamento de; 47
+
+  Febres, agudas específicas e doenças cardiovasculares; 11
+
+
+  Glicosúria e Doença Cardíaca; 22
+
+  Glicosúria e Doença Cardíaca, Prognóstico de; 36
+
+  Glicosúria e Doença Cardíaca, Sintomas e Sinais de; 22
+
+  Golfe e tensão cardíaca; 7
+
+  Gota e Ateroma; 7
+
+  Gota e tensão cardíaca; 7
+
+  Gota como causa de doença cardiovascular; 9
+
+  Gota e Doença Cardíaca; 20
+
+  Gota e Doença Cardíaca, Prognóstico de; 36
+
+  Gota e doença cardíaca, sintomas e sinais de; 20
+
+  Gota e Doença Cardíaca, Tratamento de; 42, 45
+
+  Gota Irregular; 10
+
+  Coração Gotoso; 20
+
+
+  Coração, O, de 20 a 45; 3
+
+  Coração, de 45 a 65; 4
+
+  Coração, de 65 a 75; 4
+
+  Coração do homem de negócios; 12
+
+  Coração, Distúrbio de, após 40, Causas de; 6
+
+  Coração, Insuficiência de, Tratamento de; 48
+
+  Coração, Família; 14
+
+  Coração, normal, O, depois dos 40; 3
+
+  Coração do Soldado; 12
+
+  Coração, Tensão de; 6
+
+  Coração, Tensão de, depois dos 40; 6
+
+  Coração, Tensão de, na Gota; 7
+
+  Alta tensão arterial por tensão nervosa; 8
+
+
+  Gripe e doenças cardiovasculares; 11
+
+
+  Chumbo e distúrbio cardíaco; 9
+
+
+  Metabolismo, Distúrbios e Doenças Cardiovasculares; 9
+
+  Sopro, Diastólico Aórtico, Significado de; 33
+
+  Sopro Sistólico Diastólico; 33
+
+  Sopro Diastólico Endocárdico; 33
+
+  Sopro Mitral, Pré-sistólico Diastólico; 33
+
+  Sopro Mitral, Sistólico; 33
+
+
+  Tratamento de Nauheim; 45
+
+  Influências nervosas são causa de doenças cardiovasculares; 8
+
+  Tensão Nervosa e Doença Cardíaca; 29
+
+  Tensão Nervosa e Doença Cardíaca, Prevenção de; 43
+
+  Tensão Nervosa e Doença Cardíaca, Prognóstico de; 39
+
+  Tensão nervosa e doença cardíaca, sintomas e sinais de; 29
+
+
+  Obesidade e doença cardiovascular; 10, 22
+
+  Obesidade e Doenças Cardíacas, Sintomas e Sinais; 22
+
+  Velhice, Artérias normais em; 5
+
+  Velhice, coração em; 5
+
+  Operações em degeneração cardiovascular; 39
+
+
+  Palpitação, Significado de; 35
+
+  Estresse físico, causa de doenças cardiovasculares; 6
+
+  Prognóstico, Elementos de; 36, 40
+
+  Pseudo-angina de peito; 35
+
+
+  Remo e tensão cardíaca; 7
+
+  Corrida e esforço cardíaco; 7
+
+
+  Som, Primeiro, duplicado; 34
+
+  Som, Segundo, acentuado; 34
+
+  Tensão cardíaca após os 40, prevenção de; 45
+
+  Tensão cardíaca após 40 anos, prognóstico de; 38
+
+  Esforço cardíaco após os 40, sintomas e sinais de; 23
+
+  Esforço cardíaco após os 40 anos, tratamento de; 46
+
+  Tensão cardíaca antes dos 40, prognóstico de; 38
+
+  Esforço cardíaco antes dos 40, sintomas e sinais de; 25
+
+  Esforço cardíaco antes dos 40, tratamento de; 45
+
+  Sífilis, uma causa de doença cardiovascular; 10
+
+  Doença Cardíaca Sifilítica, Prognóstico de; 37
+
+  Doença Cardíaca Sifilítica, Sintomas e Sinais de; 28
+
+  Doença Cardíaca Sifilítica, Tratamento de; 44
+
+
+  Chá e distúrbios cardíacos; 9
+
+  Tensão, Alta, Significância de; 35
+
+  Coração de Tabaco; 9, 15
+
+  Coração de Tabaco, Prognóstico de; 36
+
+  Coração de Tabaco, Sintomas e Sinais de; 15
+
+  Coração de Tabaco, Tratamento de; 42
+
+  Tratamento de doenças cardíacas, Preventivo; 42
+
+  Tratamento da doença cardíaca, Princípios de; 41
+
+
+
+
+
+Fim do Projeto Gutenberg EBook de The Lettsomian Lectures 1900-1901, por
+J. Mitchell Bruce
+
+*** FIM DO PROJETO GUTENBERG EBOOK 43780 ***
