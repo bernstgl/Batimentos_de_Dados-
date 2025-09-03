@@ -253,7 +253,8 @@ Um sistema de IA com Visão Computacional (CV) pode atuar em diferentes níveis:
 
 - pontos de obstrução.
 
-### Por que é relevante: Padrões de obstrução são frequentemente sutis e podem passar despercebidos por olhos inexperientes. Algoritmos podem capturar microcaracterísticas invisíveis a olho nu, aumentando a sensibilidade diagnóstica.
+### Por que é relevante: 
+Padrões de obstrução são frequentemente sutis e podem passar despercebidos por olhos inexperientes. Algoritmos podem capturar microcaracterísticas invisíveis a olho nu, aumentando a sensibilidade diagnóstica.
 
 ### 2. Identificação de bordas e segmentação
 
@@ -265,7 +266,8 @@ Um sistema de IA com Visão Computacional (CV) pode atuar em diferentes níveis:
 
 - criar mapas de segmentação vascular.
 
-### Por que é relevante: segmentar corretamente vasos é essencial para calcular métricas como diâmetro do lúmen, grau de estenose (%) e extensão da lesão. Isso fornece informações objetivas, consistentes e reprodutíveis.
+### Por que é relevante: 
+Segmentar corretamente vasos é essencial para calcular métricas como diâmetro do lúmen, grau de estenose (%) e extensão da lesão. Isso fornece informações objetivas, consistentes e reprodutíveis.
 
 ### 3. Reconhecimento de anomalias
 
@@ -277,7 +279,8 @@ Um sistema de IA com Visão Computacional (CV) pode atuar em diferentes níveis:
 
 - lesões múltiplas (base para cálculo do SYNTAX score).
 
-### Por que é relevante: a identificação automática de anomalias ajuda na triagem rápida de pacientes, priorizando casos mais graves e reduzindo a chance de erro humano.
+### Por que é relevante: 
+A identificação automática de anomalias ajuda na triagem rápida de pacientes, priorizando casos mais graves e reduzindo a chance de erro humano.
 
 ### 4. Quantificação automática
 
@@ -289,13 +292,15 @@ Um sistema de IA com Visão Computacional (CV) pode atuar em diferentes níveis:
 
 - número e distribuição de lesões.
 
-### Por que é relevante: fornece uma segunda opinião objetiva, reduz a variabilidade entre médicos e aumenta a confiança em decisões terapêuticas (ex.: angioplastia vs. cirurgia).
+### Por que é relevante: 
+Fornece uma segunda opinião objetiva, reduz a variabilidade entre médicos e aumenta a confiança em decisões terapêuticas (ex.: angioplastia vs. cirurgia).
 
 ### 5. Aprendizado profundo e representação clínica
 
 - O que fazer: usar deep learning supervisionado (classificação stenosis/syntax) ou não supervisionado (detecção de outliers) para criar representações latentes das imagens.
 
-### Por que é relevante: essas representações podem ser integradas com dados clínicos (como os do cardio_train.csv) para gerar modelos híbridos de risco cardiovascular personalizado.
+### Por que é relevante: 
+Essas representações podem ser integradas com dados clínicos (como os do cardio_train.csv) para gerar modelos híbridos de risco cardiovascular personalizado.
 
 ### 🩺 Importância para IA em Saúde
 
